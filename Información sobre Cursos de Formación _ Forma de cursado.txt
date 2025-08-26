@@ -1,0 +1,81 @@
+﻿Información sobre Cursos de Formación / Forma de cursado
+Los cursos son online, algunos con cursado sincrónico y otros de cursado asincrónico. En los cursos sincrónicos se acostumbra grabar las clases, pero por favor consúltelo en el curso que sea de su interés.
+Usan aula virtual como punto de reunión de docentes y alumnos, y a efectos de poder acceder al material elaborado por la cátedra.
+ 
+link de acceso al aula virtual: https://servicios.unl.edu.ar/aulavirtual/fce/course/index.php?categoryid=16
+ 
+Consultas:
+Si tiene alguna consulta, aguardamos sus mensajes en planeamiento@fce.unl.edu.ar, o bien usando el botón de consultas que puede encontrar en cada curso.
+
+Costos:
+En cada curso se aclara el costo del mismo, por lo que lo invitamos a recorrer la página propuesta de cursos: Cursos de Formación
+ 
+Certificación:
+Los cursos emiten certificado digital con validación por código QR, a los alumnos que hayan reunido los requisitos establecidos en cada curso.
+Forma de inscripción:
+Todos los cursos tienen inscripción online y se abonan a través del sistema Mercurio de la UNL (transferencia bancaria, tarjeta de débito, crédito, pago fácil, entre otras).
+ 
+ 
+Ingresar al sistema de cursos de formación mediante el siguiente enlace: https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin
+ 
+
+
+
+
+ 
+Inscripciones Abiertas
+Actualmente, se encuentran abiertas las inscripciones para el siguiente curso:
+●          INICIACIÓN EN DATA ANALYTICS
+○          Fecha de inicio: 16/08/2025.
+○          Para realizar inscribirte al curso, el primer paso es realizar el pago de la inscripción, en el siguiente enlace de Mercurio: https://servicios.unl.edu.ar/mdcobro/botonpago/207f88018f72237565570f8a9e5ca240
+Una vez que se verifique tu pago, te llegará un aviso de tesorería para que completes un formulario para acceder al sistema con el que manejarás tus inscripciones y certificados.
+○          Si tienes una consulta específica sobre este curso, puedes hacerla en este enlace: https://www.fce.unl.edu.ar/cursos_de_formacion/index.php?act=showFormularioI&idCurso=1164#superior
+○          Mas información acerca del curso “Iniciación en data analytics”: Cursos de Formación
+Descripción breve del curso Introducción a Data Analytics:
+Este curso brinda una introducción práctica al análisis de datos para la toma de decisiones en contextos organizacionales. Se enfoca en el diseño y optimización de bases de datos, el análisis descriptivo y la creación de visualizaciones con herramientas digitales accesibles, promoviendo un enfoque de aprendizaje aplicado y orientado a resultados.
+Objetivos del curso Introducción a Data Analytics
+●          Comprender los conceptos estadísticos básicos y su aplicación en bases de datos.
+●          Aprender a diseñar, optimizar y analizar bases de datos.
+●          Desarrollar habilidades de visualización para facilitar la toma de decisiones.
+●          Aplicar técnicas descriptivas y herramientas digitales en contextos reales.
+Datos clave del cursado Introducción a Data Analytics
+●          Inicio: Junio de 2025.
+●          Duración: 5 semanas.
+●          Encuentros: Tres encuentros sincrónicos: 1era, 3era y 5ta semana. Días sábados de 9:00 a 12:00 h.
+●          Modalidad: 100% virtual.
+●          Plataforma: Zoom (sincrónico) + Aula virtual FCE.
+Destinatarios del curso Introducción a Data Analytics
+Personas interesadas en iniciarse en el análisis de datos, especialmente estudiantes o profesionales que deseen incorporar herramientas para gestionar información en sus espacios laborales. No se requieren conocimientos previos específicos.
+Contenidos del curso Introducción a Data Analytics
+●          Conceptos estadísticos básicos y diseño de base de datos.
+●          Análisis descriptivo: gráficos, medidas y filtrado.
+●          Visualización digital e interpretación de datos.
+●          Proyecto final aplicado a una base de datos real.
+Docentes del curso Introducción a Data Analytics
+●          Mg. María Alejandra SANTARRONE: Profesora en Matemática. Magíster en Docencia Universitaria. Investigadora en educación estadística y herramientas digitales. Docente de Estadística en la FCE-UNL.
+●          Lic. Juan Pablo TEDESCA: Licenciado en Economía. Docente de Estadística FCE-UNL. Doctorando en Ciencias Sociales. Experiencia en software estadístico (SPSS, STATA, R).
+Certificación del curso Introducción a Data Analytics
+Certificado de asistencia y/o aprobación con entrega y aprobación de dos tareas prácticas. Se requiere participación activa en el aula virtual y encuentros sincrónicos.
+Costo del curso Introducción a Data Analytics
+
+
+●          Pago total de $ 60.000.- (a cancelarse hasta en 2 cuotas de $ 30.000 c/u).
+●          Para consultar formas de pago, escribir a: tesoreria@fce.unl.edu.ar
+ 
+ 
+PROPUESTAS DICTADAS ANTERIORMENTE:
+-           PLANILLAS DE CALCULO PARA TU EMPRENDIMIENTO: Accede a información de este curso mediante el siguiente enlace https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=265
+
+
+-           INGLÉS PARA LOS NEGOCIOS: Accede a información de este curso mediante el siguiente enlace: Cursos de Formación
+
+
+-           ATENCIÓN AL CLIENTE CON CALIDAD
+○          Si estás interesado en que este curso, puedes registrar tu interés en el siguiente enlace: https://www.fce.unl.edu.ar/cursos_de_formacion/index.php?act=showEstoyInteresado&idCurso=1158#superior
+○          Para consultas sobre este curso, usa este enlace: https://www.fce.unl.edu.ar/cursos_de_formacion/index.php?act=showFormularioI&idCurso=1158#superior
+-           INICIACIÓN A LA ADMINISTRACIÓN DE CONSORCIOS
+○          Si estás interesado en que este curso se vuelva a dictar, puedes registrar tu interés en el siguiente enlace: https://www.fce.unl.edu.ar/cursos_de_formacion/index.php?act=showEstoyInteresado&idCurso=1173#superior
+○          Para consultas sobre este curso, usa este enlace:https://www.fce.unl.edu.ar/cursos_de_formacion/index.php?act=showFormularioI&idCurso=1173#superior
+-           TRADING 360° ANÁLISIS, ESTRATEGIA, RIESGO Y EMOCIONES CON ENFOQUE PRÁCTICO
+○          Si estás interesado en que este curso se vuelva a dictar, puedes registrar tu interés en el siguiente enlace: https://www.fce.unl.edu.ar/cursos_de_formacion/index.php?act=showEstoyInteresado&idCurso=1167#superior
+○          Para consultas sobre este curso, usa este enlace: https://www.fce.unl.edu.ar/cursos_de_formacion/index.php?act=showFormularioI&idCurso=1167#superior

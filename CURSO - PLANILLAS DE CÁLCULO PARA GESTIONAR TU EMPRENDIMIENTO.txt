@@ -1,0 +1,49 @@
+﻿CURSO - PLANILLAS DE CÁLCULO PARA GESTIONAR TU EMPRENDIMIENTO
+
+
+Link:
+https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=265
+
+
+Descripción breve del curso
+Este curso está pensado para personas que no tienen experiencia previa con planillas de cálculo y desean aprender a organizar la de su emprendimiento o actividad personal. Con una metodología práctica y flexible, se abordan desde los conceptos básicos hasta la aplicación concreta en un trabajo final personalizado.
+
+
+Objetivos
+• Adquirir nociones básicas de uso de planillas de cálculo.
+• Comprender las ventajas de organizar datos en formato digital. • Aprender a crear fórmulas, funciones y aplicar formatos útiles. • Diseñar una solución práctica y personalizada para el emprendimiento propio. • Familiarizarse con el software libre y su valor en contextos públicos y privados.
+
+
+Datos clave del cursado
+• Inicio: Junio de 2025.
+• Duración: 8 semanas (12 horas totales de capacitación) • Modalidad: 100% virtual y asincrónica. • Plataforma: Aula virtual FCE + encuentro inicial sincrónico por Zoom + encuentro final sincrónico por Zoom de exposición de trabajos finales. Los encuentros sincrónicos son opcionales, quedarán grabados y a disposición en el aula virtual. 
+
+
+Destinatarios
+Personas que nunca usaron planillas de cálculo y desean aprender a organizar la información de su emprendimiento, negocio o actividad. No se requieren conocimientos previos. Solo se necesita una PC con conexión a internet y disposición para instalar LibreOffice Calc 25.2.12 (o superior).
+
+
+Docente
+CPN Favio EMILIANI
+Contador Público Nacional (FCE-UNL). Desarrollador autodidacta en sistemas web y Python. Capacitador en TICs, seguridad digital, productividad, LibreOffice y automatización
+
+
+Contenidos
+• Introducción al uso de LibreOffice Calc.
+• Diferencias entre software libre y software propietario.
+• Hojas, celdas, fórmulas y funciones básicas.
+• Formatos, atajos, exportación a PDF.
+• Actividades prácticas semanales con corrección del docente.
+• Trabajo final aplicado al emprendimiento propio.
+
+
+Certificación
+Certificado de aprobación sujeto a la entrega y validación del trabajo final. No se requiere asistencia sincrónica.
+
+
+Costo
+Consulta de precio y formas de pago a tesoreria@fce.unl.edu.ar
+
+
+CONSULTAS
+https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=222#showFormularioI&idCurso=1174

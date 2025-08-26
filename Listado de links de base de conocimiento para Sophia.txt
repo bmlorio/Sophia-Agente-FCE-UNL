@@ -1,0 +1,81 @@
+﻿KnowledgeUrl
+descripción: Página que detalla las metas académicas, las competencias profesionales y los objetivos de aprendizaje para los egresados de la Diplomatura en Gestión Financiera del Sector Público (GFSP).
+url: https://www.fce.unl.edu.ar/gfsp/index.php?act=showSubcategoria&id=226
+
+
+descripción: Página con la presentación general de la Diplomatura GFSP. Incluye una introducción a la carrera, su propósito, su importancia en el ámbito público y el perfil del egresado.url: https://www.fce.unl.edu.ar/gfsp/index.php?act=showSubcategoria&id=227
+
+
+descripción: Detalla los requisitos académicos y administrativos necesarios para la inscripción a la Diplomatura GFSP, incluyendo la documentación necesaria y el perfil de los postulantes.url: https://www.fce.unl.edu.ar/gfsp/index.php?act=showSubcategoria&id=229
+
+
+descripción: Especifica la duración total de la Diplomatura GFSP, la carga horaria completa y la estructura temporal del cursado.url: https://www.fce.unl.edu.ar/gfsp/index.php?act=showSubcategoria&id=224
+
+
+descripción: Describe el perfil profesional y académico al que está dirigida la Diplomatura GFSP, incluyendo a funcionarios públicos, profesionales del sector y otros interesados.url: https://www.fce.unl.edu.ar/gfsp/index.php?act=showSubcategoria&id=228
+
+
+descripción: Informa sobre el formato y la modalidad de cursado de la Diplomatura GFSP, especificando si es presencial, virtual o híbrida, y la metodología de enseñanza.url: https://www.fce.unl.edu.ar/gfsp/index.php?act=showSubcategoria&id=225
+
+
+descripción: Enumera las condiciones y requisitos que los estudiantes deben cumplir para obtener el certificado final de la Diplomatura GFSP, como la aprobación de materias y trabajo final.url: https://www.fce.unl.edu.ar/gfsp/index.php?act=showSubcategoria&id=232
+
+
+descripción: Presenta la estructura curricular completa y el plan de estudios de la Diplomatura GFSP, incluyendo el listado de materias, módulos y su organización a lo largo de la carrera.url: https://www.fce.unl.edu.ar/gfsp/index.php?act=showSubcategoria&id=230
+
+
+
+
+descripción: Ofrece un resumen de los contenidos mínimos y temas principales que se abordan en cada una de las asignaturas que componen el plan de estudios de la Diplomatura GFSP.url: https://www.fce.unl.edu.ar/gfsp/index.php?act=showSubcategoria&id=231
+descripción: Proporciona información clave para el proceso de inscripción a la Diplomatura GFSP, incluyendo fechas, datos de contacto para consultas, aranceles y el formulario de inscripción.url: https://www.fce.unl.edu.ar/gfsp/index.php?act=showCategoria&id=185
+
+
+descripción: Presenta al cuerpo directivo y al equipo de conducción de la Diplomatura GFSP dentro de la Facultad de Ciencias Económicas.url: https://www.fce.unl.edu.ar/gfsp/index.php?act=showSubcategoria&id=233
+
+
+descripción: Página con la presentación general de la Diplomatura GTO. Incluye una introducción a la carrera, su propósito y el perfil del egresado.url: https://www.fce.unl.edu.ar/gto/index.php?act=showSubcategoria&id=212
+
+
+descripción: Página que detalla las metas académicas, las competencias profesionales y los objetivos de aprendizaje para los egresados de la Diplomatura en Gestión para el Trabajo en Organizaciones (GTO).url: https://www.fce.unl.edu.ar/gto/index.php?act=showSubcategoria&id=217
+
+
+descripción: Detalla los requisitos académicos y administrativos necesarios para la inscripción a la Diplomatura GTO, incluyendo la documentación necesaria.url: https://www.fce.unl.edu.ar/gto/index.php?act=showSubcategoria&id=220
+
+
+descripción: Especifica la duración total de la Diplomatura GTO, la carga horaria completa y la estructura temporal del cursado.url: https://www.fce.unl.edu.ar/gto/index.php?act=showSubcategoria&id=215
+
+
+descripción: Describe el perfil profesional y académico al que está dirigida la Diplomatura GTO.url: https://www.fce.unl.edu.ar/gto/index.php?act=showSubcategoria&id=219
+
+
+descripción: Informa sobre el formato y la modalidad de cursado de la Diplomatura GTO, especificando si es presencial, virtual o híbrida.url: https://www.fce.unl.edu.ar/gto/index.php?act=showSubcategoria&id=216
+
+
+descripción: Enumera las condiciones y requisitos que los estudiantes deben cumplir para obtener el certificado final de la Diplomatura GTO.url: https://www.fce.unl.edu.ar/gto/index.php?act=showSubcategoria&id=223
+
+
+descripción: Presenta el plan de estudios de la Diplomatura GTO, incluyendo el listado de materias y su organización.url: https://www.fce.unl.edu.ar/gto/index.php?act=showSubcategoria&id=182
+
+
+descripción: Muestra la estructura curricular completa de la Diplomatura GTO, detallando los módulos y ciclos de la carrera.url: https://www.fce.unl.edu.ar/gto/index.php?act=showSubcategoria&id=221
+
+
+descripción: Ofrece un resumen de los contenidos mínimos y temas principales que se abordan en cada una de las asignaturas de la Diplomatura GTO.url: https://www.fce.unl.edu.ar/gto/index.php?act=showSubcategoria&id=222
+
+
+descripción: Proporciona información clave para el proceso de inscripción a la Diplomatura GTO, incluyendo fechas, datos de contacto para consultas y aranceles.url: https://www.fce.unl.edu.ar/gto/index.php?act=showCategoria&id=182
+
+
+descripción: Presenta al cuerpo directivo y al equipo de conducción de la Diplomatura GTO.url: https://www.fce.unl.edu.ar/gto/index.php?act=showSubcategoria&id=213
+
+
+Descripción: Página del curso 'Atención al cliente con calidad'. Contiene detalles sobre los objetivos del curso, el temario, la duración, la modalidad de cursado y a quiénes está dirigido.url: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=266
+
+
+Descripción: Página del curso 'Iniciación a la Administración de Consorcios'. Proporciona información sobre el plan de estudios, los destinatarios, la duración, la modalidad y los objetivos de aprendizaje.url: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=268
+
+
+descripción: Página oficial del curso 'Trading 360º'. Contiene la información completa sobre los objetivos del curso, el plan de estudios detallado, a quiénes está dirigido (destinatarios), la modalidad de cursado, la duración total, los requisitos de inscripción y los datos de contacto para consultas.url: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=270
+
+
+Descripción: Página del curso 'Iniciación en Data Analytics'. Incluye información sobre los temas a tratar, los objetivos, la duración, la modalidad, los requisitos previos y el perfil de los destinatarios.url: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=269

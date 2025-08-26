@@ -1,0 +1,61 @@
+﻿CURSO - INICIACIÓN EN DATA ANALYTICS
+Link: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=269
+
+
+Descripción breve del curso
+Este curso brinda una introducción práctica al análisis de datos para la toma de decisiones en contextos organizacionales. Se enfoca en el diseño y optimización de bases de datos, el análisis descriptivo y la creación de
+visualizaciones con herramientas digitales accesibles, promoviendo un enfoque de aprendizaje aplicado y orientado a resultados
+
+
+Objetivos
+• Comprender los conceptos estadísticos básicos y su aplicación en bases de datos.
+• Aprender a diseñar, optimizar y analizar bases de datos.
+• Desarrollar habilidades de visualización para facilitar la toma de decisiones.
+• Aplicar técnicas descriptivas y herramientas digitales en contextos reales.
+
+
+ 
+
+
+Datos clave del cursado
+• Inicio: 16 de Agosto de 2025.
+• Duración: 5 semanas.
+• Tres encuentros sincrónicos: 1era, 3era y 5ta semana. Días sábados de 9:00 a 12:00 h
+• Modalidad: 100% virtual.
+• Plataforma: Zoom (sincrónico) + Aula virtual FCE.
+
+
+ 
+
+
+Destinatarios
+Personas interesadas en iniciarse en el análisis de datos, especialmente estudiantes o profesionales que deseen incorporar herramientas para gestionar información en sus espacios laborales. No se requieren conocimientos previos específicos.
+
+
+ 
+
+
+Contenidos
+• Conceptos estadísticos básicos y diseño de base de datos.
+• Análisis descriptivo: gráficos, medidas y filtrado.
+• Visualización digital e interpretación de datos.
+• Proyecto final aplicado a una base de datos real.
+
+
+Docentes
+Mg. María Alejandra SANTARRONE
+Profesora en Matemática. Magíster en Docencia Universitaria. Investigadora en educación estadística y herramientas digitales. Docente de Estadística en la FCE-UNL.
+Lic. Juan Pablo TEDESCA
+Licenciado en Economía. Docente de Estadística FCE-UNL. Doctorando en Ciencias Sociales. Experiencia en software estadístico (SPSS, STATA, R).
+
+
+Certificación
+Certificado de asistencia y/o aprobación con entrega y aprobación de dos tareas prácticas. Se requiere participación activa en el aula virtual y encuentros sincrónicos.
+
+
+Costo
+Consulta de importe y formas de pago a tesoreria@fce.unl.edu.ar
+
+
+CONSULTAS
+https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=222#showFormularioI&idCurso=1164
