@@ -31,6 +31,5 @@ https://servicios.unl.edu.ar/aulavirtual/fce/course/index.php?categoryid=16
 
 
 Consultas
-Si tiene alguna consulta, aguardamos sus mensajes en 
-planeamiento@fce.unl.edu.ar
-o bien usando el botón de consultas que puede encontrar en cada curso.
+Si tiene alguna consulta, puede ingresar a la sección de cada curso y hacer la consulta con el botón que encontrará en dicho lugar.
+De esa forma, le podrán responder los organizadores del curso
