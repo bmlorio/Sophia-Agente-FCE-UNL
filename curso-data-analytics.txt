@@ -3,8 +3,7 @@ Link: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcatego
 
 
 Descripción breve del curso
-Este curso brinda una introducción práctica al análisis de datos para la toma de decisiones en contextos organizacionales. Se enfoca en el diseño y optimización de bases de datos, el análisis descriptivo y la creación de
-visualizaciones con herramientas digitales accesibles, promoviendo un enfoque de aprendizaje aplicado y orientado a resultados
+Este curso brinda una introducción práctica al análisis de datos para la toma de decisiones en contextos organizacionales. Se enfoca en el diseño y optimización de bases de datos, el análisis descriptivo y la creación de visualizaciones con herramientas digitales accesibles, promoviendo un enfoque de aprendizaje aplicado y orientado a resultados
 
 
 Objetivos
@@ -18,9 +17,9 @@ Objetivos
 
 
 Datos clave del cursado
-• Inicio: 16 de Agosto de 2025.
+• el curso no está abierto actualmente (se ofreció por última vez en agosto 2025)
 • Duración: 5 semanas.
-• Tres encuentros sincrónicos: 1era, 3era y 5ta semana. Días sábados de 9:00 a 12:00 h
+• Tres encuentros sincrónicos: 1era, 3era y 5ta semana. Días sábados de 9:00 a 12:00 h (datos de la edición anterior, puede cambiar la próxima vez que se ofrezca)
 • Modalidad: 100% virtual.
 • Plataforma: Zoom (sincrónico) + Aula virtual FCE.
 
@@ -43,10 +42,8 @@ Contenidos
 
 
 Docentes
-Mg. María Alejandra SANTARRONE
-Profesora en Matemática. Magíster en Docencia Universitaria. Investigadora en educación estadística y herramientas digitales. Docente de Estadística en la FCE-UNL.
-Lic. Juan Pablo TEDESCA
-Licenciado en Economía. Docente de Estadística FCE-UNL. Doctorando en Ciencias Sociales. Experiencia en software estadístico (SPSS, STATA, R).
+Mg. María Alejandra SANTARRONE: Profesora en Matemática. Magíster en Docencia Universitaria. Investigadora en educación estadística y herramientas digitales. Docente de Estadística en la FCE-UNL.
+Lic. Juan Pablo TEDESCA: Licenciado en Economía. Docente de Estadística FCE-UNL. Doctorando en Ciencias Sociales. Experiencia en software estadístico (SPSS, STATA, R).
 
 
 Certificación
@@ -54,8 +51,12 @@ Certificado de asistencia y/o aprobación con entrega y aprobación de dos tarea
 
 
 Costo
-Consulta de importe y formas de pago a tesoreria@fce.unl.edu.ar
+A modo de referencia, la última vez que se ofreció, el costo era de $60.000, en la próxima edición, el mismo puede cambiar. Recuerde que se puede anotar en una lista de espera completando este formulario https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=222#showFormularioI&idCurso=1164 y le avisaremos cuando se vuelva a ofrecer
+
+CONSULTAS
+Si tiene alguna otra consulta que no esté cubierta por mi conocimiento del tema, no dude en completar este formulario https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1164 y un humano le responderá en breve
 
 
 CONSULTAS
 https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=222#showFormularioI&idCurso=1164
+
