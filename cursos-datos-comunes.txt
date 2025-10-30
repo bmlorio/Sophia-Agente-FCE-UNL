@@ -4,7 +4,7 @@
 
 
 Inscripciones abiertas:
-No hay inscripciones abiertas por el momento
+No hay inscripciones abiertas por el momento, pero en cada curso hay un formulario para anotarse en una lista de espera y ser avisado cuando el curso abra inscripciones.
 
 
 Forma de inscripción
@@ -34,3 +34,4 @@ Consultas
 Si tiene alguna consulta, aguardamos sus mensajes en 
 planeamiento@fce.unl.edu.ar
 o bien usando el botón de consultas que puede encontrar en cada curso.
+
