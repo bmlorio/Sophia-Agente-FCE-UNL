@@ -1,0 +1,34 @@
+[
+  {
+    "url": "https://raw.githubusercontent.com/bmlorio/Sophia-Agente-FCE-UNL/main/diplomatura-gfsp.txt",
+    "description": "Documento con toda la información sobre la Diplomatura en Gestión Financiera del Sector Público (GFSP), incluyendo presentación, objetivos, requisitos, plan de estudios y modalidad."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/bmlorio/Sophia-Agente-FCE-UNL/main/diplomatura-gto.txt",
+    "description": "Documento con toda la información sobre la Diplomatura en Gestión para el Trabajo en Organizaciones (GTO), incluyendo presentación, objetivos, requisitos, plan de estudios y modalidad."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/bmlorio/Sophia-Agente-FCE-UNL/main/curso-trading-360.txt",
+    "description": "Documento con la información completa sobre el curso 'Trading 360º', incluyendo objetivos, plan de estudios, modalidad, duración, y requisitos."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/bmlorio/Sophia-Agente-FCE-UNL/main/curso-data-analytics.txt",
+    "description": "Documento con la información completa sobre el curso 'Iniciación en Data Analytics', incluyendo temario, objetivos, duración y requisitos."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/bmlorio/Sophia-Agente-FCE-UNL/main/curso-admin-consorcios.txt",
+    "description": "Documento con la información completa sobre el curso 'Iniciación a la Administración de Consorcios', detallando plan de estudios, destinatarios y objetivos."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/bmlorio/Sophia-Agente-FCE-UNL/main/curso-atencion-cliente.txt",
+    "description": "Documento con la información completa sobre el curso 'Atención al Cliente con Calidad', incluyendo objetivos, temario, duración y modalidad."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/bmlorio/Sophia-Agente-FCE-UNL/refs/heads/main/curso-ingles.txt",
+    "description": "Documento con la información completa sobre el curso 'Inglés para los negocios', incluyendo objetivos, temario, duración y modalidad."
+  },
+  {
+    "url": "https://raw.githubusercontent.com/bmlorio/Sophia-Agente-FCE-UNL/refs/heads/main/curso-planillas.txt",
+    "description": "Documento con la información completa sobre el curso 'Planillas de cálculo para gestionar tu emprendimiento', incluyendo objetivos, temario, duración y modalidad."
+  }
+]
