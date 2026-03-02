@@ -69,6 +69,7 @@ descripción: Proporciona información clave para el proceso de inscripción a l
 descripción: Presenta al cuerpo directivo y al equipo de conducción de la Diplomatura GTO.url: https://www.fce.unl.edu.ar/gto/index.php?act=showSubcategoria&id=213
 
 
+
 Descripción: Página del curso 'Atención al cliente con calidad'. Contiene detalles sobre los objetivos del curso, el temario, la duración, la modalidad de cursado y a quiénes está dirigido.url: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=266
 
 
@@ -79,3 +80,5 @@ descripción: Página oficial del curso 'Trading 360º'. Contiene la informació
 
 
 Descripción: Página del curso 'Iniciación en Data Analytics'. Incluye información sobre los temas a tratar, los objetivos, la duración, la modalidad, los requisitos previos y el perfil de los destinatarios.url: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=269
+
+Descripción: Página del curso 'INTRODUCCIÓN AL DISEÑO DE MODELOS DE NEGOCIOS'. Incluye información sobre los temas a tratar, los objetivos, la duración, la modalidad, los requisitos previos y el perfil de los destinatarios.url: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=298
