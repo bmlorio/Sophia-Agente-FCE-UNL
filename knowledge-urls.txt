@@ -70,16 +70,6 @@ descripción: Presenta al cuerpo directivo y al equipo de conducción de la Dipl
 
 
 
-Descripción: Página del curso 'Atención al cliente con calidad'. Contiene detalles sobre los objetivos del curso, el temario, la duración, la modalidad de cursado y a quiénes está dirigido.url: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=266
 
-
-Descripción: Página del curso 'Iniciación a la Administración de Consorcios'. Proporciona información sobre el plan de estudios, los destinatarios, la duración, la modalidad y los objetivos de aprendizaje.url: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=268
-
-
-descripción: Página oficial del curso 'Trading 360º'. Contiene la información completa sobre los objetivos del curso, el plan de estudios detallado, a quiénes está dirigido (destinatarios), la modalidad de cursado, la duración total, los requisitos de inscripción y los datos de contacto para consultas.url: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=270
-
-
-Descripción: Página del curso 'Iniciación en Data Analytics'. Incluye información sobre los temas a tratar, los objetivos, la duración, la modalidad, los requisitos previos y el perfil de los destinatarios.url: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=269
-
-Descripción: Página del curso 'INTRODUCCIÓN AL DISEÑO DE MODELOS DE NEGOCIOS'. Incluye información sobre los temas a tratar, los objetivos, la duración, la modalidad, los requisitos previos y el perfil de los destinatarios.url: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=298 y también puse el detalle en solo texto en esta parte: https://github.com/bmlorio/Sophia-Agente-FCE-UNL/blob/851553fde0b14fd8321e836fa00876e3c7133f64/curso-diseno-modelo-negocios
+Descripción: Página del curso 'INTRODUCCIÓN AL DISEÑO DE MODELOS DE NEGOCIOS'. Incluye información sobre los temas a tratar, los objetivos, la duración, la modalidad, los requisitos previos y el perfil de los destinatarios.url: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=298 
 
