@@ -59,7 +59,10 @@ SI ESTÁ INTERESADO, complete por favor este formulario y le avisaremos cuando s
 
 [curso]
 CURSO: INTRODUCCIÓN AL DISEÑO DE MODELOS DE NEGOCIOS
-FundamentaciónEl desarrollo de emprendimientos en el contexto argentino presenta desafíos significativos vinculados a la inestabilidad macroeconómica, los cambios normativos y las dificultades de acceso al financiamiento. En este escenario, una proporción considerable de proyectos no logra consolidarse debido a debilidades en la planificación, la organización interna y la gestión económico-financiera.
+Link:
+https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=298
+
+Fundamentación El desarrollo de emprendimientos en el contexto argentino presenta desafíos significativos vinculados a la inestabilidad macroeconómica, los cambios normativos y las dificultades de acceso al financiamiento. En este escenario, una proporción considerable de proyectos no logra consolidarse debido a debilidades en la planificación, la organización interna y la gestión económico-financiera.
 Frente a esta realidad, resulta prioritario fortalecer instancias de formación que permitan estructurar los emprendimientos desde una perspectiva integral. El Modelo Canvas se presenta como una herramienta especialmente adecuada para este propósito, al facilitar
 la visualización del negocio en su conjunto y el análisis de la coherencia entre sus distintos componentes. El curso incorpora, además, nociones vinculadas a la formalización administrativa, la organización del trabajo y la evaluación de la viabilidad económica, aspectos clave para reducir riesgos y favorecer la sostenibilidad de los proyectos.
 
@@ -134,4 +137,5 @@ PREINSCRIPCION: https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLo
 
 
 [/curso]
+
 
