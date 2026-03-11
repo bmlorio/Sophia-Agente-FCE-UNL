@@ -4,7 +4,7 @@
 
 
 Inscripciones abiertas:
-No hay inscripciones abiertas por el momento, pero en cada curso hay un formulario para anotarse en una lista de espera y ser avisado cuando el curso abra inscripciones.
+Se encuentran abiertas las inscripciones a los 22 cursos, se pueden hacer consultas online usando el botón respectivo que encuentra en la sección de inscripciones abiertas https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=213
 
 
 Forma de inscripción
@@ -16,7 +16,7 @@ Los cursos emiten certificado digital con validación por código QR, a los alum
 
 
 Costos
-En cada curso se aclara el costo del mismo, por lo que lo invitamos a recorrer la página https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=213
+Puede consultarlos usando el botón de consultas disponible en cada curso, ver listado de cursos en: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=213
 
 
 Forma de cursado
@@ -26,12 +26,12 @@ Los cursos son online, algunos con cursado sincrónico y otros de cursado asincr
 Usan aula virtual como punto de reunión de docentes y alumnos, y a efectos de poder acceder al material elaborado por la cátedra.
 
 
-Entorno Virtual
-https://servicios.unl.edu.ar/aulavirtual/fce/course/index.php?categoryid=16
+
 
 
 Consultas
 Si tiene alguna consulta, aguardamos sus mensajes en 
-planeamiento@fce.unl.edu.ar
+cursosdeformacion@fce.unl.edu.ar
 o bien usando el botón de consultas que puede encontrar en cada curso.
+
 
