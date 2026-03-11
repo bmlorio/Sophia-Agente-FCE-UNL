@@ -1,26 +1,35 @@
-﻿Información sobre Cursos de Formación / Forma de cursado
-Los cursos son online, algunos con cursado sincrónico y otros de cursado asincrónico. En los cursos sincrónicos se acostumbra grabar las clases, pero por favor consúltelo en el curso que sea de su interés.
-Usan aula virtual como punto de reunión de docentes y alumnos, y a efectos de poder acceder al material elaborado por la cátedra.
- 
-link de acceso al aula virtual: https://servicios.unl.edu.ar/aulavirtual/fce/course/index.php?categoryid=16
- 
-Consultas:
-Si tiene alguna consulta, aguardamos sus mensajes en planeamiento@fce.unl.edu.ar, o bien usando el botón de consultas que puede encontrar en cada curso.
+﻿CURSOS - INFORMACIÓN COMÚN A TODOS
 
-Costos:
-En cada curso se aclara el costo del mismo, por lo que lo invitamos a recorrer la página propuesta de cursos: Cursos de Formación
- 
-Certificación:
-Los cursos emiten certificado digital con validación por código QR, a los alumnos que hayan reunido los requisitos establecidos en cada curso.
-Forma de inscripción:
+
+
+
+Inscripciones abiertas:
+Se encuentran abiertas las inscripciones a los 22 cursos, se pueden hacer consultas online usando el botón respectivo que encuentra en la sección de inscripciones abiertas https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=213
+
+
+Forma de inscripción
 Todos los cursos tienen inscripción online y se abonan a través del sistema Mercurio de la UNL (transferencia bancaria, tarjeta de débito, crédito, pago fácil, entre otras).
- 
- 
-Ingresar al sistema de cursos de formación mediante el siguiente enlace: https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin
- 
 
 
-Actualmente no hay inscripciones abiertas, pero puede revisar la sección de cada curso para obtener más información del mismo.
-También, en el espacio de cada curso puede hacer consultas y anotarse en lista de espera para que le avisemos por mail cuando abran las inscripciones
+Certificación
+Los cursos emiten certificado digital con validación por código QR, a los alumnos que hayan reunido los requisitos establecidos en cada curso.
 
- 
+
+Costos
+Puede consultarlos usando el botón de consultas disponible en cada curso, ver listado de cursos en: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=213
+
+
+Forma de cursado
+Los cursos son online, algunos con cursado sincrónico y otros de cursado asincrónico. En los cursos sincrónicos se acostumbra grabar las clases, pero por favor consúltelo en el curso que sea de su interés.
+
+
+Usan aula virtual como punto de reunión de docentes y alumnos, y a efectos de poder acceder al material elaborado por la cátedra.
+
+
+
+
+
+Consultas
+Si tiene alguna consulta, aguardamos sus mensajes en 
+cursosdeformacion@fce.unl.edu.ar
+o bien usando el botón de consultas que puede encontrar en cada curso.
