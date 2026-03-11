@@ -1,11 +1,11 @@
 IMPORTANTE: En este archivo hay 22 cursos. Van a iniciar con la etiqueta [curso] y [/curso] cuando finalice un curso
 MUY IMPORTANTE: olvidate de los otros cursos cortos, solo los cursos que están en este archivo son validos
-INSCRIPCIONES ABIERTAS DE TODOS LOS CURSOS EN ESTE LISTADO
+INSCRIPCIONES ABIERTAS en este mismo momento, inscribite ya! DE TODOS LOS CURSOS EN ESTE LISTADO
 
 [curso]
 CURSO: INTRODUCCIÓN AL DISEÑO DE MODELOS DE NEGOCIOS
 Link:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=298
-INSCRIPCIONES ABIERTAS
+INSCRIPCIONES ABIERTAS en este mismo momento, inscribite ya!
 
 Fundamentación El desarrollo de emprendimientos en el contexto argentino presenta desafíos significativos vinculados a la inestabilidad macroeconómica, los cambios normativos y las dificultades de acceso al financiamiento. En este escenario, una proporción considerable de proyectos no logra consolidarse debido a debilidades en la planificación, la organización interna y la gestión económico-financiera.
 Frente a esta realidad, resulta prioritario fortalecer instancias de formación que permitan estructurar los emprendimientos desde una perspectiva integral. El Modelo Canvas se presenta como una herramienta especialmente adecuada para este propósito, al facilitar
@@ -73,7 +73,7 @@ PREINSCRIPCION: https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLo
 [curso]
 curso: HERRAMIENTAS MATEMÁTICAS PARA MODELIZAR CAMBIOS EN VARIABLES DE INTERÉS OPERATIVO
 Link: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=297
-INSCRIPCIONES ABIERTAS
+INSCRIPCIONES ABIERTAS en este mismo momento, inscribite ya!
 
 Fundamentación
 El curso se concibe como un espacio orientado al fortalecimiento de la capacidad de resolución de problemas que requieren el uso de herramientas matemáticas para observar, analizar y modelizar cambios cuantitativos en variables de interés operativo propias de las Ciencias Económicas.
@@ -142,7 +142,7 @@ Pre-inscripción: https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=show
 [curso]
 CURSO: GESTIÓN FINANCIERA PARA EMPRENDIMIENTOS
 LINK: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=303
-INSCRIPCIONES ABIERTAS
+INSCRIPCIONES ABIERTAS en este mismo momento, inscribite ya!
 
 Fundamentación
 En el contexto productivo local y regional, numerosos emprendimientos y pequeñas organizaciones enfrentan dificultades para planificar sus recursos, anticipar problemas de liquidez, evaluar alternativas de financiamiento y analizar el impacto económico de sus
@@ -246,7 +246,7 @@ PRE-INSCRIPCIÓN: https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=show
 [curso]
 CURSO: INTELIGENCIA ARTIFICIAL PARA LA GESTIÓN DE PYMES Y EMPRENDIMIENTOS
 LINK: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=301
-INSCRIPCIONES ABIERTAS
+INSCRIPCIONES ABIERTAS en este mismo momento, inscribite ya!
 
 Fundamentación
 El curso tiene como objetivo brindar una comprensión integral del impacto actual de la Inteligencia Artificial en la gestión de pymes y emprendimientos, combinando fundamentos teóricos de la toma de decisiones con la aplicación práctica de herramientas de IA y el análisis de patrones de trabajo utilizados en el ámbito profesional y empresarial.
@@ -323,7 +323,7 @@ PREINSCRIPCIÓN: https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showL
 [curso]
 CURSO:TOKENIZACIÓN DE ACTIVOS DE LA ECONOMÍA REAL EN ARGENTINA
 LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=313
-INSCRIPCIONES ABIERTAS
+INSCRIPCIONES ABIERTAS en este mismo momento, inscribite ya!
 
 Fundamentación
 La industria financiera atraviesa una transformación estructural hacia la denominada “Internet del Valor”. En el período 2025–2026, Argentina se consolida como pionera a nivel regional tras la implementación del Sandbox Regulatorio de la Comisión Nacional de Valores y la habilitación de la oferta pública de fideicomisos tokenizados, en el marco de las Resoluciones Generales CNV 1069, 1087 y 1088.
@@ -409,7 +409,7 @@ PREINSCRIPCIÓN: https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showL
 [curso]
 CURSO:IA APLICADA DE 0 A 100: Formación laboral transversal
 LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=315
-INSCRIPCIONES ABIERTAS
+INSCRIPCIONES ABIERTAS en este mismo momento, inscribite ya!
 
 Fundamentación
 El curso propone una transición desde el uso básico de la inteligencia artificial generativa hacia el paradigma agéntico, en el cual la IA no solo genera contenido, sino que planifica y ejecuta tareas. Se estructura como una formación intensiva y 100% práctica, bajo el enfoque “aprender haciendo”.
@@ -492,7 +492,7 @@ PREINSCRIPCIÓN: https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showL
 [curso]
 CURSO:FORMACIÓN DE GERENTES DE SUPERMERCADO
 LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=309
-INSCRIPCIONES ABIERTAS
+INSCRIPCIONES ABIERTAS en este mismo momento, inscribite ya!
 
 Fundamentación
 La propuesta surge con el objetivo de suplir un vacío formativo existente mediante un
@@ -609,7 +609,7 @@ PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLo
 [curso]
 CURSO:FORMACIÓN DE GERENTES PARA RETAIL
 LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=306
-INSCRIPCIONES ABIERTAS
+INSCRIPCIONES ABIERTAS en este mismo momento, inscribite ya!
 
 Fundamentación
 El fundamento principal de esta iniciativa académica es que la universidad desarrolle y
@@ -826,7 +826,7 @@ Licenciado en Economía. Magíster en Dirección de Empresas.
 [curso]
 CURSO:FORMACIÓN DE VENDEDORES DE PRODUCTOS PERECEDEROS EN SUPERMERCADOS
 LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=307
-INSCRIPCIONES ABIERTAS
+INSCRIPCIONES ABIERTAS en este mismo momento, inscribite ya!
 
 CONSULTAS:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1188
 PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1188
@@ -927,7 +927,7 @@ Licenciado en Economía. Magíster en Dirección de Empresas.
 [curso]
 CURSO:FORMACIÓN DE VENDEDORES PARA PRODUCTOS TEXTILES Y ELECTRODOMÉSTICOS
 LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=305
-INSCRIPCIONES ABIERTAS
+INSCRIPCIONES ABIERTAS en este mismo momento, inscribite ya!
 
 CONSULTAS:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1190
 PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1190
@@ -1016,7 +1016,7 @@ y en la formación orientada a la actividad mercantil.
 [curso]
 CURSO:INTELIGENCIA ARTIFICIAL APLICADA A LA GESTIÓN Y PRODUCTIVIDAD
 LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=296
-INSCRIPCIONES ABIERTAS
+INSCRIPCIONES ABIERTAS en este mismo momento, inscribite ya!
 CONSULTAS:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1183
 PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1183
 Fundamentación
@@ -1084,7 +1084,7 @@ de Ciencias Económicas de la UNL.
 [curso]
 CURSO:PLANILLAS DE CÁLCULO PARA GESTIONAR TU EMPRENDIMIENTO
 LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=265
-INSCRIPCIONES ABIERTAS
+INSCRIPCIONES ABIERTAS en este mismo momento, inscribite ya!
 CONSULTAS:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1174
 PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1174
 Descripción breve del curso
@@ -1144,7 +1144,7 @@ Requisitos de ingreso
 [curso]
 CURSO:PRODUCCIÓN SALUDABLE 360: CURSO INTEGRAL PARA EMPRENDEDORES
 LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=316
-INSCRIPCIONES ABIERTAS
+INSCRIPCIONES ABIERTAS en este mismo momento, inscribite ya!
 CONSULTAS:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1204
 PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1204
 Fundamentación
@@ -1215,7 +1215,7 @@ Maestranda en Docencia Universitaria. Docente del área de Contabilidad de la FC
 [curso]
 CURSO:CONVERTIR DATOS EN INTELIGENCIA DE NEGOCIO
 LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=302
-INSCRIPCIONES ABIERTAS
+INSCRIPCIONES ABIERTAS en este mismo momento, inscribite ya!
 CONSULTAS:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1193
 PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1193
 Fundamentación
@@ -1307,7 +1307,7 @@ Titular de las cátedras Administración de Operaciones y Ciencia de Datos Aplic
 [curso]
 CURSO:ATENCIÓN AL CLIENTE Y ORATORIA
 LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=299
-INSCRIPCIONES ABIERTAS
+INSCRIPCIONES ABIERTAS en este mismo momento, inscribite ya!
 CONSULTAS:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1196
 PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1196
 Fundamentación
@@ -1389,7 +1389,7 @@ de Negocios (UCES Santa Fe). Autor de libros sobre oratoria y desarrollo profesi
 [curso]
 CURSO:MANEJO PRÁCTICO DE COOPERATIVAS Y ASOCIACIONES
 LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=304
-INSCRIPCIONES ABIERTAS
+INSCRIPCIONES ABIERTAS en este mismo momento, inscribite ya!
 CONSULTAS:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1191
 PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1191
 Fundamentación
@@ -1486,7 +1486,7 @@ y docente de emprendedores.
 [curso]
 CURSO:GESTIÓN DE EMPRENDIMIENTOS EN LA INDUSTRIA DE CÁÑAMO Y CANNABIS MEDICINAL
 LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=310
-INSCRIPCIONES ABIERTAS
+INSCRIPCIONES ABIERTAS en este mismo momento, inscribite ya!
 CONSULTAS:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1197
 PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1197
 Fundamentación
@@ -1580,7 +1580,7 @@ Socio fundador de Arcann S.A., EBT incubada en el PTLC.
 [curso]
 CURSO:INTRODUCCIÓN A LA OPERATORIA EN MERCADO DE CAPITALES PARA ORGANIZACIONES
 LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=300
-INSCRIPCIONES ABIERTAS
+INSCRIPCIONES ABIERTAS en este mismo momento, inscribite ya!
 CONSULTAS:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1195
 PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1195
 Fundamentación
@@ -1660,7 +1660,7 @@ Asesor Financiero. Agente Productor CNV
 [curso]
 CURSO:TRADING PROFESIONAL BASADO EN EVIDENCIA
 LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=314
-INSCRIPCIONES ABIERTAS
+INSCRIPCIONES ABIERTAS en este mismo momento, inscribite ya!
 CONSULTAS:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1202
 PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1202
 Fundamentación
@@ -1736,7 +1736,7 @@ Bernabé Marcelo Lorio – Docente FCE-UNL. Contador Público Nacional (FCE-UNL)
 [curso]
 CURSO:LA CONSTRUCCIÓN DEL PENSAMIENTO PROPORCIONAL
 LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=311
-INSCRIPCIONES ABIERTAS
+INSCRIPCIONES ABIERTAS en este mismo momento, inscribite ya!
 CONSULTAS:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1198
 PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1198
 Fundamentación
@@ -1825,7 +1825,7 @@ Estudiante avanzado de la Licenciatura en Economía (FCE–UNL). Se desempeñó 
 [curso]
 CURSO:TEORÍA DE JUEGOS: FUNDAMENTOS MATEMÁTICOS Y APLICACIONES EN ECONOMÍA, ADMINISTRACIÓN Y MARKETING
 LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=312
-INSCRIPCIONES ABIERTAS
+INSCRIPCIONES ABIERTAS en este mismo momento, inscribite ya!
 CONSULTAS:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1199
 PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1199
 Fundamentación
@@ -1910,5 +1910,6 @@ Lenguaje y Profesora Adjunta en Cálculo para Ciencias Económicas en la FCE-UNL
 Fátima Quinteros - Docente / Tutora
 Especialista en Didáctica de la Matemática (2024, FHUC-UNL), Profesora de Educación Secundaria en Matemática (2015, ENS N°32). JTP con dedicación semiexclusiva en la cátedra “Matemática como Lenguaje” en la Facultad de Ciencias Económicas, UNL. JTP con dedicación simple en las cátedras “Matemática I” y “Matemática II” en el Centro Universitario Gálvez, UNL. JTP simple en la cátedra “Matemática aplicada a la arquitectura I” en la Facultad de Arquitectura, Diseño y Urbanismo, UNL. Profesora titular en la asignatura Matemática en la Escuela de Educación Secundaria Orientada Particular Incorporada N° 8016 “Nuestra Señora del Huerto”. Integrante de proyectos de investigación CAI+D y de proyectos de  extensión de UNL.
 [/curso]
+
 
 
