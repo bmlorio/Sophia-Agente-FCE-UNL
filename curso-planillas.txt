@@ -1,61 +1,6 @@
-IMPORTANTE: En este archivo hay 2 cursos. Van a iniciar con la etiqueta [curso] y [/curso] cuando finalice un curso
+IMPORTANTE: En este archivo hay 22 cursos. Van a iniciar con la etiqueta [curso] y [/curso] cuando finalice un curso
 MUY IMPORTANTE: olvidate de los otros cursos cortos, solo los cursos que están en este archivo son validos
 
-[curso]
-CURSO - PLANILLAS DE CÁLCULO PARA GESTIONAR TU EMPRENDIMIENTO
-
-
-Link:
-https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=265
-
-
-Descripción breve del curso
-Este curso está pensado para personas que no tienen experiencia previa con planillas de cálculo y desean aprender a organizar la de su emprendimiento o actividad personal. Con una metodología práctica y flexible, se abordan desde los conceptos básicos hasta la aplicación concreta en un trabajo final personalizado.
-
-
-Objetivos
-• Adquirir nociones básicas de uso de planillas de cálculo.
-• Comprender las ventajas de organizar datos en formato digital. • Aprender a crear fórmulas, funciones y aplicar formatos útiles. • Diseñar una solución práctica y personalizada para el emprendimiento propio. • Familiarizarse con el software libre y su valor en contextos públicos y privados.
-
-
-Datos clave del cursado
-• Inicio: por el momento no hay una nueva fecha de inicio, las inscripciones se encuentran cerradas.
-• Duración: 8 semanas (12 horas totales de capacitación) • Modalidad: 100% virtual y asincrónica. • Plataforma: Aula virtual FCE + encuentro inicial sincrónico por Zoom + encuentro final sincrónico por Zoom de exposición de trabajos finales. Los encuentros sincrónicos son opcionales, quedarán grabados y a disposición en el aula virtual. 
-
-
-Destinatarios
-Personas que nunca usaron planillas de cálculo y desean aprender a organizar la información de su emprendimiento, negocio o actividad. No se requieren conocimientos previos. Solo se necesita una PC con conexión a internet y disposición para instalar LibreOffice Calc 25.2.12 (o superior).
-
-
-Docente
-CPN Favio EMILIANI
-Contador Público Nacional (FCE-UNL). Desarrollador autodidacta en sistemas web y Python. Capacitador en TICs, seguridad digital, productividad, LibreOffice y automatización
-
-
-Contenidos
-• Introducción al uso de LibreOffice Calc.
-• Diferencias entre software libre y software propietario.
-• Hojas, celdas, fórmulas y funciones básicas.
-• Formatos, atajos, exportación a PDF.
-• Actividades prácticas semanales con corrección del docente.
-• Trabajo final aplicado al emprendimiento propio.
-
-
-Certificación
-Certificado de aprobación sujeto a la entrega y validación del trabajo final. No se requiere asistencia sincrónica.
-
-
-Costo
-En la última edición el curso se ofreción a $ 50.000 (pesos argentinos), pero no hay un precio actualizado, lo puede consultar en tesoreria@fce.unl.edu.ar
-
-LINK DE PAGO: ofrecemos un link de pago y puede hacer primero el pago y luego la inscripción (la inscripción es necesaria para obtener el certificado), el link de pago es https://www.fce.unl.edu.ar/cursos-de-formacion
-
-
-CONSULTAS
-https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1174
-
-SI ESTÁ INTERESADO, complete por favor este formulario y le avisaremos cuando se vuelva a dictar: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=222#showFormularioI&idCurso=1174
-[/curso]
 
 [curso]
 CURSO: INTRODUCCIÓN AL DISEÑO DE MODELOS DE NEGOCIOS
@@ -87,16 +32,6 @@ Módulo 5 - Actividades, asociaciones y organización del trabajo. (3 hs)
 Módulo 6 -  Estructura de costos y fuentes de ingresos. (2 hs)
 Módulo 7 -  Viabilidad económica, indicadores y escalamiento. (3,5 hs)
 A lo largo del cursado se desarrollan encuentros taller presenciales asociados a los distintos módulos, orientados al trabajo práctico y al acompañamiento en la construcción del modelo de negocio.
-
- 
-
- 
-
- 
-
- 
-
- 
 
 Objetivos
 - Brindar herramientas conceptuales y prácticas para el diseño y la organización de
@@ -133,9 +68,1820 @@ planificación, control de gestión y toma de decisiones organizacionales.
 
 CONSULTAS: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1185
 PREINSCRIPCION: https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1185
+[/curso]
 
+[curso]
+curso: HERRAMIENTAS MATEMÁTICAS PARA MODELIZAR CAMBIOS EN VARIABLES DE INTERÉS OPERATIVO
+Link: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=297
 
+Fundamentación
+El curso se concibe como un espacio orientado al fortalecimiento de la capacidad de resolución de problemas que requieren el uso de herramientas matemáticas para observar, analizar y modelizar cambios cuantitativos en variables de interés operativo propias de las Ciencias Económicas.
+A través del abordaje de minicasos, se propone una vinculación estrecha entre teoría y práctica, situando las herramientas matemáticas como respuestas necesarias y funcionales a problemas reales. Bajo este enfoque, la modelización —ya sea mediante la construcción de modelos o la operación sobre modelos existentes— se presenta integrada a la toma de decisiones en contextos laborales, técnicos y profesionales.
+El minicaso, como dispositivo didáctico, introduce fragmentos de realidad verosímiles que demandan decisiones fundamentadas en conocimiento matemático. Esta modalidad promueve la selección pertinente de herramientas, la gestión de la incertidumbre y el uso de tecnologías digitales y asistentes de inteligencia artificial, favoreciendo el desarrollo de habilidades de orden superior como la argumentación, validación y lectura crítica de la realidad económica.
+
+Existe una vacancia en la oferta educativa destinada a técnicos y egresados de carreras cortas que, si bien cuentan con saberes específicos de su oficio, requieren fortalecer el pensamiento variacional para la toma de decisiones.
+Asimismo, el curso responde a la demanda de alfabetización matemática situada por parte de emprendedores y trabajadores independientes que no han continuado estudios formales, pero reconocen la necesidad de herramientas matemáticas para analizar, modelizar y escalar sus actividades económicas.
+De manera complementaria, la propuesta resulta de interés para docentes que busquen incorporar el enfoque de minicasos como estrategia didáctica para la formación de competencias aplicadas.
+
+Destinatarios
+- Técnicos y graduados de carreras cortas.
+- Emprendedores y trabajadores independientes.
+- Docentes de matemática y disciplinas afines.
+
+Requisitos de ingreso
+- Título secundario completo.
+- Conocimientos matemáticos básicos: aritmética, álgebra elemental, funciones elementales, nociones de límite y derivada.
+- Alfabetización digital básica y disposición para el uso de TIC y asistentes de inteligencia artificial.
+
+Contenidos
+Módulo 1 - Herramientas para el estudio de variaciones y tendencias - (25  hs). Incrementos, tasas de cambio, límite, derivada, análisis marginal y elasticidad puntual.
+Módulo 2 - Optimización de modelos económicos - (15 hs). Optimización de ingresos, costos y utilidades. Análisis de eficiencia y puntos críticos.
+Módulo 3 - Modelización de dinámicas de crecimiento y decrecimiento -(20 hs). Modelos exponenciales y logarítmicos. Construcción de modelos a partir de minicasos.
+Carga horaria total: 60 horas.
+
+Objetivos
+- Aplicar nociones del cálculo variacional para analizar cambios en variables
+económicas.
+- Desarrollar procesos de modelización matemática a partir de situaciones reales.
+- Mejorar la capacidad de análisis y toma de decisiones en escenarios económicos dinámicos.
+
+Datos clave del cursado
+Modalidad: Bimodal
+Duración total: 60 horas
+Duración del cursado: 3 meses
+Fecha estimada de inicio: 23 de marzo de 2026
+Fecha estimada de finalización: 26 de junio de 2026
+Día y horario de cursado: Jueves de 19:00 a 21:00 horas
+
+Modalidad de cursado
+Tipo de cursado: Bimodal.
+Frecuencia: Un encuentro semanal (presencial o virtual sincrónico).
+Duración de cada encuentro: 2 horas.
+Plataformas: Aula Virtual FCE, Zoom / Meet / similar.
+Actividades asincrónicas: Resolución de minicasos, revisión de materiales y participación en foros.
+
+Modalidad de evaluación:
+Participación activa en las actividades propuestas y aprobación de un trabajo final grupal basado en la resolución y/o diseño de minicasos.
+
+Docentes
+María Magdalena Mas – Docente
+Profesora en Matemática (UNL). Jefa de cátedra de Cálculo para Ciencias Económicas.
+Silvana Grisetti – Docente
+Profesora en Matemática (FHUC-UNL). Docente en cátedras de Matemática
+como Lenguaje y Cálculo para Ciencias Económicas (FCE-UNL).
+Jonatan Perren – Docente
+Profesor en Matemática (FHUC-UNL). Profesor adjunto en Cálculo para Ciencias Económicas e Inferencia Estadística (FCE-UNL).
+Dulce Gottig – Docente
+Profesora en Matemática (FHUC-UNL). JTP con dedicación semiexclusiva
+en Cálculo para Ciencias Económicas (FCE-UNL).
+Consultas: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1184
+Pre-inscripción: https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1184
+[/curso]
+
+[curso]
+CURSO: GESTIÓN FINANCIERA PARA EMPRENDIMIENTOS
+LINK: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=303
+
+Fundamentación
+En el contexto productivo local y regional, numerosos emprendimientos y pequeñas organizaciones enfrentan dificultades para planificar sus recursos, anticipar problemas de liquidez, evaluar alternativas de financiamiento y analizar el impacto económico de sus
+decisiones. Estas situaciones suelen estar asociadas a la ausencia de herramientas básicas de gestión financiera aplicadas, especialmente en personas que no cuentan con formación contable o económica, pero cumplen roles clave en la administración cotidiana.
+
+El curso Gestión financiera para emprendimientos propone una formación práctica y accesible orientada a cubrir esta necesidad, brindando herramientas introductorias de análisis económico-financiero que permitan ordenar la información, comprender su lógica
+y utilizarla como apoyo a la toma de decisiones. La propuesta se desarrolla desde una perspectiva no profesionalizante, evitando invadir incumbencias propias de las Ciencias Económicas, y priorizando el uso aplicado de conceptos simples y operativos.
+
+La propuesta tiene como finalidad fortalecer la capacidad de los participantes para comprender, interpretar y utilizar información financiera básica en contextos reales de emprendimientos y pequeñas organizaciones. El curso se centra en el presupuesto económico y financiero, el análisis de indicadores simples de gestión, la dinámica del capital de trabajo y nociones básicas de apalancamiento, abordadas desde una lógica aplicada a la gestión cotidiana y estratégica. Se prioriza el desarrollo de criterios para la toma de decisiones informadas, contribuyendo a mejorar la sostenibilidad, eficiencia y profesionalización de los emprendimientos.
+
+Destinatarios
+Emprendedores y emprendedoras de proyectos productivos, comerciales o de servicios; asistentes de emprendimientos; integrantes de cooperativas, asociaciones civiles y pequeñas organizaciones; y personas interesadas en adquirir herramientas prácticas de gestión financiera para apoyar la toma de decisiones.
+
+Requisitos
+- Ser mayor de 18 años.
+- No se requieren conocimientos contables ni financieros previos.
+- Manejo básico de herramientas digitales
+
+Contenidos
+Módulo 1 – Introducción a la gestión financiera para emprendimientos. (8 h)
+Conceptos básicos y lenguaje financiero. 
+Módulo 2 - Presupuesto económico y financiero. Ingresos, costos, gastos y flujo de fondos. (12 hs)
+Módulo 3 - Indicadores de gestión. Rentabilidad, liquidez y eficiencia. Interpretación
+práctica. (10 hs)
+Módulo 4 - Capital de trabajo. Stock, cuentas a cobrar y a pagar. Impacto en la operatoria
+diaria. (10 hs)
+Módulo 5 - Apalancamiento. Nociones básicas, riesgos y toma de decisiones.
+Caso integrador. (8 hs)
+
+Objetivos
+- Comprender los conceptos básicos del presupuesto económico y financiero aplicados
+a emprendimientos.
+- Incorporar indicadores simples de gestión para el análisis y seguimiento del
+desempeño.
+- Analizar el capital de trabajo y su impacto en la operatoria cotidiana.
+- Introducir nociones básicas de apalancamiento y su efecto en la toma de decisiones.
+- Aplicar herramientas prácticas a situaciones reales del entorno productivo.
+
+Datos clave del cursado
+Modalidad: Bimodal
+Carga horaria total: 48 horas
+Duración: 2 meses
+Fechas de dictado: Del 1 de abril al 31 de mayo de 2026
+Día y horario: Viernes de 14:00 a 16:00 horas
+Frecuencia: Un encuentro semanal
+Entorno de cursado: Aula Virtual FCE – Zoom / Meet o simila
+
+Perfil de egreso
+Al finalizar el curso, los participantes serán capaces de elaborar y analizar presupuestos
+simples, interpretar indicadores básicos de gestión, comprender la dinámica del capital de
+trabajo y reconocer los efectos del endeudamiento y del apalancamiento en la toma de
+decisiones, aplicando estas herramientas a la gestión de su emprendimiento u
+organización, sin reemplazar ni invadir incumbencias profesionales.
+
+Modalidad de cursado
+El curso se desarrolla bajo modalidad bimodal, combinando clases presenciales y virtuales
+sincrónicas con el uso del aula virtual. La propuesta incluye actividades prácticas
+individuales y grupales, análisis de casos reales, simulaciones sencillas, foros de
+intercambio y acompañamiento docente permanente.
+Se prioriza un enfoque aplicado, orientado a que los participantes trabajen sobre
+situaciones reales o simuladas vinculadas a su propio emprendimiento u organización.
+
+Evaluación
+- Resolución de ejercicios prácticos.
+- Análisis de casos.
+- Participación en foros y actividades de integración.
+- Trabajo final integrador aplicado a un emprendimiento real o simulado.
+
+Certificación
+Certificado de asistencia.
+Certificado de aprobación.
+
+Docentes
+Emir Espinoza
+Docente del área de Contabilidad de la Facultad de Ciencias Económicas
+de la Universidad Nacional del Litoral. Contador Público Nacional (FCE–UNL).
+Especialista en Contabilidad y Auditoría. Maestrando en Contabilidad y Auditoría (UNL).
+Se desempeña como gestor universitario en áreas vinculadas a la gestión
+económico-financiera, auditoría y mejora de procesos, con experiencia en formación
+y acompañamiento de organizaciones y emprendimientos.
+Natalia Riaño
+Docente del área de Contabilidad de la Facultad de Ciencias Económicas
+de la Universidad Nacional del Litoral y de la Universidad Católica de Santa Fe.
+Contadora Pública Nacional (FCE–UNL). Maestranda en Administración de Empresas
+(UNL). Cuenta con trayectoria en la administración pública, especialmente en áreas
+vinculadas a la presupuestación, planificación y seguimiento financiero.
+María Rut Azerrad
+Docente de la Facultad de Ciencias Económicas de la Universidad Nacional del Litoral,
+con trayectoria en cátedras vinculadas a la Práctica Profesional de la carrera de Contador
+Público. Referente en actividades de extensión y formación dirigidas a emprendedores,
+organizaciones sociales y pequeñas instituciones, abordando la planificación económica,
+la organización administrativa y el uso de herramientas de gestión para la toma
+de decisiones. Cuenta con experiencia en articulación institucional y trabajo
+interdisciplinario.
+
+CONSULTAS: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1192
+PRE-INSCRIPCIÓN: https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1192 
 
 [/curso]
 
+[curso]
+CURSO: INTELIGENCIA ARTIFICIAL PARA LA GESTIÓN DE PYMES Y EMPRENDIMIENTOS
+LINK: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=301
+
+Fundamentación
+El curso tiene como objetivo brindar una comprensión integral del impacto actual de la Inteligencia Artificial en la gestión de pymes y emprendimientos, combinando fundamentos teóricos de la toma de decisiones con la aplicación práctica de herramientas de IA y el análisis de patrones de trabajo utilizados en el ámbito profesional y empresarial.
+
+En el contexto actual, numerosas pymes enfrentan limitaciones de recursos, bajos niveles de digitalización y dificultades para transformar información en decisiones estratégicas, afectando su competitividad y sostenibilidad. Paralelamente, la incorporación acelerada
+de soluciones basadas en IA redefine los perfiles laborales requeridos, generando la necesidad de competencias híbridas que integren conocimientos de gestión, análisis de información y uso aplicado de tecnologías digitales. 
+
+La propuesta resulta pertinente desde el punto de vista productivo al acercar a pymes y profesionales herramientas tecnológicas actualmente utilizadas en la industria, promoviendo la profesionalización de la gestión y el uso estratégico de la Inteligencia Artificial como un factor clave para el desarrollo sostenible de emprendimientos y pequeñas y medianas empresas.
+
+Destinatarios
+El curso está dirigido a emprendedores, responsables y colaboradores de áreas administrativas, contables y de marketing de pymes, así como a personas involucradas en la gestión y análisis de información organizacional que deseen actualizar y fortalecer sus competencias en el uso de Inteligencia Artificial aplicada a la toma de decisiones, el control de gestión y el diseño de estrategias. Asimismo, se orienta a estudiantes de carreras afines interesados en complementar su formación académica con conocimientos prácticos aplicables a contextos reales.
+
+Requisitos
+Título de educación secundaria o equivalente.
+
+ 
+
+Contenidos
+Módulo 1 - Fundamentos de gestión PyME y finanzas asistidas por IA. (10 hs) 
+Bases de administración, análisis de costos y rentabilidad, indicadores críticos, punto de equilibrio y automatización básica de la gestión contable y financiera.
+Módulo 2 - Estrategia de mercado, expansión global y scraping. (12 hs)
+Estudios de mercado, marketing mix potenciado por IA, inteligencia de mercado mediante web scraping, comercio exterior, importación y logística básica.
+Módulo 3 - Automatización avanzada y orquestación de flujos de trabajo. (20 hs)
+Ecosistema de herramientas de IA, integración con canales de comunicación, automatizaciones con Make y n8n, diseño de workflows escalables.
+Módulo 4 - Proyecto integrador y toma de decisiones. (6 hs)
+Resolución de casos reales, interpretación de datos generados por automatizaciones y presentación de propuestas de mejora para pymes.
+
+Carga horaria total: 48 horas.
+
+ 
+
+Objetivos
+- Comprender el impacto actual de la Inteligencia Artificial en la gestión de pymes
+y emprendimientos.
+- Identificar y replicar patrones de trabajo basados en IA utilizados en la industria
+- Aplicar herramientas de Inteligencia Artificial y automatización en procesos
+administrativos, comerciales y de gestión.
+- Analizar casos reales de aplicación de IA en pymes, evaluando resultados, limitaciones
+y aprendizajes para su replicabilidad.
+
+Datos clave del cursado
+Modalidad: Bimodal
+Duración total: 48 horas
+Duración estimada: 3 meses
+Fecha estimada de inicio: 1 de abril de 2026
+Fecha estimada de finalización: 30 de junio de 2026
+Día y horario de cursado: Jueves de 18:00 a 20:00 hs
+Plataformas: Aula Virtual FCE y Zoom / Meet.
+Actividades asincrónicas: trabajos prácticos, seguimiento de actividades y desarrollo del
+trabajo final individual o grupal.
+
+Perfil de egreso
+Al finalizar el curso, el participante estará en condiciones de integrar conocimientos administrativos, criterios estratégicos y soluciones basadas en Inteligencia Artificial para mejorar la eficiencia operativa, la calidad de la información y la toma de decisiones en contextos reales de pymes y emprendimientos.
+
+Evaluación
+Participación activa en las actividades propuestas y aprobación de un trabajo final, individual o grupal, a elección de los estudiantes.
+
+ 
+
+Docentes
+Santiago Costamagna – Docente
+Licenciado en Economía, con formación en Economía Circular y Desarrollo Ecosistémico. Experiencia laboral en el Ministerio de Ambiente
+y Cambio Climático, en consultoría y asesoramiento a pymes y emprendimientos. Analista de datos en el Observatorio Social de la UNL y docente de la cátedra Economía Ambiental (FCE-UNL). Asistente de proyectos en CEDES (FCE-UNL).
+Mateo Castellano – Docente
+Ingeniero Industrial, con formación en IA aplicada a la gestión del product backlog. Líder de Producto en Latamly, empresa especializada en la expansión y comercialización de productos tecnológicos y de consumo en América Latina. Experiencia en gestión de portafolios, análisis de mercado y toma de decisiones basada en datos.
+Nahuel Burdisso – Docente
+Especialista en Informática y Tech Lead con más de 10 años de experiencia en el sector tecnológico. Se desempeñó en empresas como Mercado Libre y Código del Sur, y actualmente es Líder Técnico en Splight, empresa dedicada al desarrollo de plataformas de inteligencia artificial para la optimización de infraestructuras eléctricas. Especialista en implementación de agentes de IA, UX y escalabilidad de soluciones tecnológicas. 
+
+CONSULTAS:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1194
+PREINSCRIPCIÓN: https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1194
+
+[/curso]
+
+[curso]
+CURSO:TOKENIZACIÓN DE ACTIVOS DE LA ECONOMÍA REAL EN ARGENTINA
+LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=313
+Fundamentación
+La industria financiera atraviesa una transformación estructural hacia la denominada “Internet del Valor”. En el período 2025–2026, Argentina se consolida como pionera a nivel regional tras la implementación del Sandbox Regulatorio de la Comisión Nacional de Valores y la habilitación de la oferta pública de fideicomisos tokenizados, en el marco de las Resoluciones Generales CNV 1069, 1087 y 1088.
+El curso propone una inmersión práctica y normativa en el ecosistema de la tokenización de activos de la economía real (Real World Assets – RWA). No se trata de una formación en programación, sino de un abordaje orientado a negocios, compliance y estructuración jurídica, destinado a quienes deben instrumentar, auditar o comercializar estos activos. La propuesta vincula la tradición jurídica de los derechos reales con la eficiencia de la 
+tecnología blockchain, utilizando estándares técnicos como ERC-3643.
+Existe actualmente una brecha significativa de conocimiento en el sector productivo y de servicios profesionales de la región. Abogados, contadores, escribanos y desarrolladores inmobiliarios se enfrentan a demandas de financiamiento digital para proyectos agroindustriales, inmobiliarios y PyME, sin contar con herramientas suficientes para encuadrarlos en la normativa vigente ni en el régimen tributario aplicable. Este curso cubre dicha vacancia académica, atendiendo una demanda laboral insatisfecha y posicionando a la FCE-UNL a la vanguardia de la innovación educativa financiera.
+
+Destinatarios
+Profesionales y actores del ecosistema económico que requieren actualizar sus competencias ante la digitalización de activos, entre ellos:
+Abogados vinculados al derecho societario, financiero y notarial. 
+Contadores públicos dedicados al asesoramiento tributario y auditoría.
+Escribanos públicos interesados en fe pública digital y certificación de activos.
+Desarrolladores inmobiliarios y Agentes de Liquidación y Compensación (ALyC).
+Estudiantes avanzados y público inversor.
+El valor de la propuesta reside en la capacidad de interpretar y ejecutar proyectos de tokenización bajo el nuevo marco legal argentino.
+
+Requisitos
+No se requieren conocimientos previos de programación. Se sugiere contar con formación básica en ciencias económicas, derecho o experiencia en negocios, así como manejo básico de herramientas informáticas y plataformas de videoconferencia.
+
+Contenidos
+Módulo 1 - Fundamentos y marco regulatorio. Blockchain y smart contracts. Diferencias entre criptoactivos y security tokens. RG CNV 1069, 1087 y 1088. Régimen de PSAV. (6 hs)
+Módulo 2 - Estructuración legal y notarial. “Avatar digital” jurídico. Fideicomisos financieros vs. sociedades. Whitepapers, términos y condiciones. Rol del escribano y fe pública digital. (6 hs)
+Módulo 3 - Aspectos tributarios y contables. Impuesto a las Ganancias, Bienes Personales, IVA, Ingresos Brutos, territorialidad y facturación. (6 hs)
+Módulo 4 - Negocios y tecnología aplicada. Estándares técnicos (ERC-3643), identidad digital soberana, auditoría básica de smart contracts y análisis de casos de éxito (Landtoken, Agrotoken). Taller integrador. (6 hs)
+Carga horaria total: 24 horas.
+
+Aclaraciones relevantes
+El curso propone una articulación interdisciplinaria innovadora entre las Facultades de 
+Ciencias Económicas y Derecho, abordando una temática de alta actualidad a partir de la 
+entrada en vigencia de nuevas normas regulatorias a fines de 2025.
+
+
+Objetivos
+- Interpretar el nuevo marco regulatorio argentino (RG CNV 1069, 1087 y 1088) aplicado a fideicomisos y otros instrumentos tokenizados.
+- Diseñar estructuras legales y fiscales eficientes para proyectos de tokenización inmobiliaria, agroindustrial o PyME. Asesorar sobre el tratamiento impositivo (Impuesto a las Ganancias, IVA y Bienes Personales) de la tenencia y enajenación de security tokens frente a criptoactivos no regulados.
+- Comprender el rol de los nuevos actores regulados, como los Proveedores de Servicios de Activos Virtuales (PSAV) y agentes de registro
+
+Datos clave del cursado
+Modalidad: Virtual
+Duración total: 24 horas
+Duración del cursado: 2 meses
+Fecha estimada de inicio: 3 de abril de 2026
+Fecha estimada de finalización: 22 de mayo de 2026
+Día y horario de cursado: Viernes de 18:00 a 20:00 horas
+
+Perfil de egreso
+Al finalizar el curso, el participante será capaz de identificar oportunidades de negocio basadas en la tokenización de activos reales, distinguir los requisitos legales para la oferta pública de tokens, asesorar sobre sus implicancias impositivas y comprender los flujos técnicos básicos necesarios para interactuar con equipos de desarrollo blockchain
+
+Modalidad de cursado
+Frecuencia: 1 encuentro semanal.
+Duración: 2 horas reloj por encuentro.
+Plataformas: Aula Virtual FCE y Zoom / Meet.
+Actividades asincrónicas: lectura de normativa y bibliografía actualizada, participación en 
+foros de debate y desarrollo del Trabajo Final Integrador con tutoría docente.
+
+Metodología y modalidad de trabajo
+El curso se desarrollará bajo una modalidad bimodal, integrando trabajo asincrónico y encuentros presenciales.
+Ambiente Virtual de Aprendizaje (Aula Virtual FCE): abordaje teórico, recursos multimodales, lecturas guiadas y foros de discusión académica.
+Taller Presencial de Diseño Pedagógico Situado: producción colaborativa de secuencias didácticas aplicadas a escenarios propios de las Ciencias Económicas.
+Se prevé una actividad asincrónica semanal y la realización de dos encuentros presenciales.
+
+Evaluación
+Asistencia mínima del 75% a los encuentros sincrónicos.
+Aprobación de un Trabajo Final Integrador consistente en el diseño de un esquema de tokenización para un activo hipotético (inmueble, cosecha o factura), definiendo su estructura jurídica y tratamiento fiscal.
+
+Certificación
+Certificado de aprobación.
+
+Docentes
+Bernabé Marcelo Lorio – Docente FCE-UNL / Graduado
+Contador Público (UNL), con posgrado en Tributación y Planificación Financiera, posgrado en Ingeniería en Calidad y diplomatura en Bitcoin, Blockchain y 
+Criptoeconomía. Profesional con más de 25 años de experiencia en asesoramiento tributario-contable. Socio en Menter SAS (área tributaria y contable para activos digitales). Docente en cursos de extensión sobre Bitcoin y economía cripto. Autor del libro Trading Exponencial.
+Leonardo Klug – Docente Externo / Invitado
+Abogado, especialista en regulaciones e Idóneo CNV. Docente UBA. Experto en derecho financiero y mercado de capitales, con foco en normativa CNV para activos virtuales y procesos de oferta pública.
+Sergio Fiszson – Docente Externo / Invitado
+Desarrollador y consultor tecnológico. Especialista en arquitectura blockchain, procesos y contratos inteligentes. Consultor técnico en proyectos de tokenización.
+
+
+CONSULTAS: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1201
+PREINSCRIPCIÓN: https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1201
+[/curso]
+
+[curso]
+CURSO:IA APLICADA DE 0 A 100: Formación laboral transversal
+LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=315
+Fundamentación
+El curso propone una transición desde el uso básico de la inteligencia artificial generativa hacia el paradigma agéntico, en el cual la IA no solo genera contenido, sino que planifica y ejecuta tareas. Se estructura como una formación intensiva y 100% práctica, bajo el enfoque “aprender haciendo”.
+Está orientado al uso aplicado de herramientas del ecosistema Google (Gemini, NotebookLM, Opal, Stitch, Antigravity y AI Studio), integrándolas en flujos de trabajo reales para automatizar procesos, profundizar tareas de investigación y desarrollar soluciones digitales sin requerir conocimientos previos de programación.
+La propuesta responde a una demanda creciente de PyMEs, estudios profesionales y emprendimientos locales por mejorar la productividad en tareas de investigación, documentación, análisis de datos y prototipado. Transfiere competencias directamente aplicables en áreas como administración, auditoría, control de gestión, reporting y compliance.
+
+Destinatarios
+Estudiantes, graduados y público general (emprendedores, profesionales independientes y personal administrativo) interesados en incorporar inteligencia artificial para mejorar su desempeño laboral o desarrollar soluciones propias.
+
+Requisitos
+- Manejo básico de navegación web y Google Drive.
+- No se requieren conocimientos previos de programación.
+- Computadora (PC o notebook) con conexión estable a Internet y Google Chrome actualizado.
+- Cuenta de Google habilitada para acceso a herramientas y laboratorios.
+
+Contenidos
+Módulo 1 - Fundamentos, ecosistema agéntico y prototipado. (5 hs)
+Módulo 2 - Desarrollo no-code con Opal e integraciones. (5 hs)
+Módulo 3 - Diseño generativo con Stitch. (5 hs)
+Módulo 4 - Introducción a Antigravity e IDE agéntico. (5 hs)
+Módulo 5 - Flujos avanzados y agentes cross-surface. (5 hs)
+Módulo 6 - Gestión asíncrona y colaboración humano–IA. (5 hs)
+Módulo 7 - Productividad creativa y activos del proyecto final. (5 hs)
+Módulo 8 - Integración, análisis de costos y Demo Day. (5 hs)
+Carga horaria total: 40 horas.
+
+Aclaraciones relevantes
+Se recomienda cupo controlado (30 a 60 participantes) para garantizar el seguimiento técnico de los entornos de desarrollo agéntico. Se sugiere articulación con la Secretaría de Vinculación Tecnológica por el potencial de transferencia a PyMEs.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Objetivos
+- Utilizar herramientas de IA del ecosistema Google según criterios de costo y eficiencia.
+- Diseñar prompts y artefactos aplicables a tareas laborales.
+- Desarrollar prototipos y aplicaciones no-code.
+- Operar entornos de desarrollo agéntico con supervisión humana.
+
+Datos clave del cursado
+Modalidad: Virtual
+Duración total: 40 horas
+Duración del cursado: 3 meses
+Fecha estimada de inicio: 4 de abril de 2026
+Fecha estimada de finalización: 13 de junio de 2026
+Día y horario de cursado: Sábados de 9:00 a 11:00 hs
+
+Perfil de egreso
+Al finalizar el curso, el participante podrá integrar inteligencia artificial en su flujo de trabajo para resolver problemas reales, crear automatizaciones, desarrollar asistentes personalizados y generar productos digitales básicos, mejorando la productividad y la toma de decisiones.
+
+Modalidad de cursado
+Frecuencia: 1 encuentro semanal.
+Duración: 2 horas reloj por encuentro.
+Plataformas: Aula Virtual FCE y Zoom / Meet.
+Actividades asincrónicas: laboratorios prácticos semanales con entregables, foros de consulta, desarrollo progresivo del proyecto final y lectura de documentación oficial seleccionada.
+
+Evaluación
+- Evaluación de proceso: aprobación de laboratorios semanales y asistencia mínima del 70%.
+- Evaluación final: Proyecto Final Integrador que combine solución técnica, bitácora de trabajo y activos de comunicación.
+
+Certificación
+Certificado de aprobación.
+
+Docentes
+Bernabé Marcelo Lorio – Docente FCE-UNL. Contador Público Nacional (FCE-UNL), con posgrados en Tributación (FCE-UNL) e Ingeniería en Calidad (UTN), y diplomatura en Bitcoin, Blockchain y Criptoeconomía. Profesional con más de 25 años de experiencia en asesoramiento tributario y financiero, especializado en economía digital, criptoactivos y mercados financieros. Autor del libro Trading Exponencial: Libera tu Potencial con el Efecto Compuesto y la Gestión Emocional. Socio en Menter SAS y consultor independiente. Docente en cursos de extensión y diplomaturas vinculadas a finanzas en la FCE y FBCB.
+
+
+CONSULTAS: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1203
+PREINSCRIPCIÓN: https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1203
+[/curso]
+
+[curso]
+CURSO:FORMACIÓN DE GERENTES DE SUPERMERCADO
+LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=309
+Fundamentación
+La propuesta surge con el objetivo de suplir un vacío formativo existente mediante un
+programa de formación integral orientado específicamente a la tipología comercial
+“supermercado”. Se trata de un formato de negocio altamente complejo, caracterizado
+por la coexistencia de múltiples rubros, una logística interna dinámica y la gestión
+simultánea de diversos perfiles laborales.
+El curso busca aportar herramientas concretas que permitan mejorar la tarea cotidiana de
+quienes se desempeñan en este tipo de establecimientos y, a su vez, fortalecer su proyección laboral. La formación propuesta integra contenidos técnicos, comerciales y de
+gestión de recursos humanos, brindando una mirada integral sobre el funcionamiento del
+supermercado como unidad de negocio.
+El supermercado constituye la tipología comercial que mayor empleo genera en el país.
+Sin embargo, no existen programas de formación integral que preparen a las personas
+interesadas para desempeñarse con mayor nivel de competitividad y profesionalismo en
+este ámbito.
+La ausencia de instancias sistemáticas de capacitación impacta directamente en la
+eficiencia operativa, la calidad del servicio, la gestión del personal y la rentabilidad del
+negocio. En este sentido, la propuesta responde a una demanda concreta del sector
+mercantil, aportando una formación universitaria orientada al trabajo real y cotidiano del
+supermercado.
+La iniciativa se enmarca en la idea de que la universidad desarrolle y ofrezca formación al
+sector que mayor empleo genera en el país, sentando las bases para la construcción de
+una verdadera escuela de formación del empleado de comercio con certificación
+universitaria
+
+Destinatarios
+Personas que actualmente trabajan en supermercados o que desean insertarse
+laboralmente en este tipo de establecimientos.
+
+Requisitos
+Formación básica: primario completo.
+
+ 
+
+ 
+
+Contenidos
+Módulo 1 - Atención al Cliente – 3 hs
+Módulo 2 - Venta Personal – 3 hs
+Módulo 3 - Liderazgo y Manejo de Equipos – 3 hs
+Módulo 4 - Manejo de la Rentabilidad – 3 hs
+Módulo 5 - Venta por Autoservicio – 3 hs
+Módulo 6 - Manejo del Depósito – 3 hs
+Módulo 7 - Bromatología y Calidad Alimentaria – 3 hs
+Módulo 8 - Limpieza – 3 hs
+Módulo 9 - Manejo del Producto Perecedero (carne, fiambres, lácteos, frutas y verduras) – 9 hs
+Módulo 10 - Evaluaciones – 3 hs
+Carga horaria total: 36 horas.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Objetivos
+- Brindar un programa de formación integral que aborde las principales temáticas de la
+tipología supermercado para mejorar la tarea cotidiana.
+- Formar a las y los participantes para ejercer el liderazgo en un amplio abanico
+temático, combinando formación técnica y herramientas para el manejo del recurso
+humano.
+- Ofrecer una respuesta con mayor nivel de idoneidad profesional a los requerimientos
+laborales, a partir de un proceso de formación previo o paralelo al desempeño del
+trabajo.
+
+Datos clave del cursado
+Modalidad: Virtual
+Duración total: 36 horas
+Duración estimada: 3 meses
+Fecha estimada de inicio:6 de abril de 2026
+Fecha estimada de finalización: 26 de junio de 2026
+Días y horarios de cursado: Martes de 18:00 a 19:30 hs
+
+Perfil de egreso
+El egresado contará con las herramientas necesarias para desenvolverse en una de las
+tipologías comerciales más complejas, caracterizada por la variedad de rubros (aseo,
+limpieza, bebidas, almacén, productos perecederos), la gestión de múltiples perfiles
+laborales y una logística interna cotidiana de alta dinámica.
+
+Modalidad de cursado
+Tipo de clases: Clases virtuales sincrónicas.
+Frecuencia: Una clase semanal.
+Duración de cada encuentro: 1 hora y media.
+Plataforma: Zoom / Meet / similar.
+Actividades asincrónicas: Consultas asincrónicas vía WhatsApp.
+
+Evaluación
+Evaluación mediante cuestionarios de opción múltiple (multiple choice).
+
+ 
+
+Certificación
+Certificado de asistencia.
+Certificado de aprobación.
+
+Docentes
+Guillermo Francisco Emma – Docente
+Arquitecto, especialista en arquitectura comercial, con amplia formación
+en gestión económica del retail. Autor de cuatro libros sobre la especialidad.
+Cuenta con experiencia profesional en el diseño y gestión de espacios comerciales
+y en la formación vinculada al sector supermercadista.
+
+
+CONSULTAS: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1186
+PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1186
+[/curso]
+
+[curso]
+CURSO:FORMACIÓN DE GERENTES PARA RETAIL
+LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=306
+Fundamentación
+El fundamento principal de esta iniciativa académica es que la universidad desarrolle y
+ofrezca formación al sector mercantil, uno de los mayores generadores de empleo del
+país, creando una verdadera escuela de formación para el empleado de comercio con
+certificación universitaria.
+La propuesta busca suplir la ausencia de programas de formación integral
+específicamente orientados al retail, particularmente en los rubros de electrodomésticos y productos textiles. A pesar de la amplia oferta pedagógica existente, no se identifican
+propuestas sistemáticas que aborden de manera integral las complejidades propias de
+esta tipología comercial, lo que representa una oportunidad formativa relevante.
+El curso apunta a mejorar la tarea cotidiana de quienes se desempeñan en el sector y a
+fortalecer su proyección laboral, integrando contenidos técnicos, comerciales y de
+gestión del recurso humano.
+El comercio y los servicios representan aproximadamente el 55% del Producto Bruto
+Interno nacional, lo que evidencia la centralidad del sector en la estructura económica del
+país. En este marco, resulta estratégico aunar esfuerzos formativos entre la universidad y
+entidades afines como cámaras, federaciones y secretarías, generando un círculo virtuoso
+que potencie el desarrollo del sector.
+La formación universitaria orientada al retail contribuye a elevar los niveles de
+profesionalización, competitividad y calidad en la gestión comercial, impactando
+positivamente tanto en las organizaciones como en las trayectorias laborales de quienes
+integran el sector.
+
+Destinatarios
+Personas que actualmente trabajan en el comercio o que aspiran a hacerlo en el futuro,
+particularmente en el sector retail.
+
+Requisitos
+- Ser mayor de 18 años.
+- Estudios primarios completos.
+
+ 
+
+Contenidos
+Módulo 1 - Atención al Cliente – 3 hs
+Módulo 2 - Venta Personal – 3 hs
+Módulo 3 - Liderazgo y Manejo de Equipos – 3 hs
+Módulo 4 - Manejo de la Rentabilidad – 3 hs
+Módulo 5 - Venta por Autoservicio – 3 hs
+Módulo 6 - Manejo del Depósito – 3 hs
+Módulo 7 - Armado de Vidrieras – 3 hs
+Módulo 8 - Limpieza – 3 hs
+Módulo 9 - Venta Electrónica y Manejo de Redes Sociales – 3 hs
+Módulo 10 - Evaluaciones – 3 hs
+Carga horaria total: 30 horas
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Objetivos
+- Brindar un programa de formación integral que aborde las principales temáticas del
+retail para mejorar la tarea cotidiana.
+- Formar a las y los participantes para ejercer el liderazgo en un amplio abanico
+temático, combinando formación técnica y herramientas para el manejo del recurso
+humano.
+- Ofrecer una respuesta con mayor nivel de idoneidad profesional a los requerimientos
+laborales, a partir de un proceso de formación previo o paralelo al desempeño del
+trabajo.
+
+Datos clave del cursado
+Modalidad: Virtual
+Carga horaria total: 30 horas
+Duración estimada: 2 meses y medio
+Fecha estimada de inicio: 6 de abril de 2026
+Fecha estimada de finalización: 15 de mayo de 2026
+Día y horario: Jueves y viernes de 18:00 a 19:30 horas
+
+Perfil de egreso
+El egresado contará con herramientas para la gestión de una de las tipologías comerciales
+más complejas, conduciendo equipos con distintos perfiles laborales y altos niveles de
+responsabilidad. Estará preparado para enfrentar tanto responsabilidades vinculadas al
+manejo del recurso humano como aquellas asociadas a la rentabilidad económica y la
+logística sensible de productos delicados.
+
+Modalidad de cursado
+Tipo de cursado: 100% virtual sincrónico.
+Frecuencia: Dos encuentros semanales.
+Duración de cada encuentro: 1 hora y media.
+Plataforma: Zoom / Meet / similar.
+Acompañamiento: Consultas y seguimiento vía WhatsApp.
+
+Evaluación
+Evaluación mediante cuestionarios electrónicos de opción múltiple (multiple choice).
+
+ 
+
+Certificación
+Certificado de asistencia.
+Certificado de aprobación.
+
+Docentes
+Guillermo Francisco Emma – Docente
+Arquitecto, especialista en arquitectura comercial, con amplia formación en gestión
+económica del retail. Autor de cuatro libros sobre la especialidad.
+Cuenta con trayectoria profesional en el diseño, análisis y gestión de espacios
+comerciales y en la formación vinculada al sector retail.
+
+
+CONSULTAS: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1189
+PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1189
+[/curso]
+
+
+[curso]
+CURSO:FORMACIÓN DE REPOSITORES PARA SUPERMERCADO
+LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=308
+CONSULTAS: https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1187
+PREINSCRIPCIÓN: https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1187
+Fundamentación
+La iniciativa se enmarca en el objetivo de que la universidad desarrolle y ofrezca
+formación específica al sector mercantil, el mayor generador de empleo del país, creando
+una verdadera escuela de formación del empleado de comercio con certificación
+universitaria.
+Dentro de este sector, el supermercadismo ocupa un lugar central por su peso
+económico y social. Sin embargo, no existen programas de formación integral orientados
+al perfil de repositor, un rol clave para el funcionamiento cotidiano del supermercado y uno de los más numerosos dentro de la tipología. En general, este oficio se aprende de
+manera empírica, a partir de la experiencia cotidiana, sin un proceso formativo previo
+sistemático.
+El curso busca cubrir este vacío formativo, aportando herramientas básicas que permitan
+mejorar el desempeño laboral, la competitividad y la proyección profesional de quienes
+cumplen —o desean cumplir— tareas de reposición.
+El comercio y los servicios representan aproximadamente el 55% del Producto Bruto
+Interno nacional, lo que pone de manifiesto la importancia estratégica del sector. En este
+contexto, la formación de perfiles operativos resulta fundamental para mejorar la
+eficiencia, la calidad del servicio y la organización interna de los supermercados.
+La propuesta se inscribe en una lógica de articulación entre la universidad y el sector
+productivo, con la posibilidad de generar sinergias con entidades afines —cámaras,
+federaciones y organismos públicos—, consolidando un círculo virtuoso que potencie el
+empleo y la profesionalización del sector mercantil.
+
+Destinatarios
+Personas que actualmente trabajan como repositores en supermercados o que realizan
+tareas de reposición sin haber atravesado un proceso formativo previo, así como quienes
+aspiran a desempeñarse en este perfil laboral.
+
+Requisitos
+- Ser mayor de edad.
+- Haber finalizado la formación primaria
+
+ 
+
+Contenidos
+Módulo 1 - Atención al Cliente – 3 hs
+Módulo 2 - Venta por Autoservicio – 6 hs
+Módulo 3 - Manejo del Depósito – 3 hs
+Módulo 4 - Limpieza – 3 hs
+Módulo 5 - Evaluaciones – 3 hs
+Carga horaria total: 18 horas.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Objetivos
+- Brindar una formación básica que permita al participante desempeñarse de manera más
+eficiente y competitiva en la actividad supermercadista, fortaleciendo su desarrollo y
+proyección profesional.
+
+Datos clave del cursado
+Modalidad: Virtual
+Duración total: 18 horas
+Duración estimada: 6 semanas
+Fecha estimada de inicio: 6 de abril de 2026
+Fecha estimada de finalización: 15 de mayo de 2026
+Días y horarios de cursado: Martes y jueves de 19:00 a 20:30 horas
+
+Perfil de egreso
+El egresado contará con herramientas que le permitirán:
+ Comprender la tarea de reposición como una función de venta por autoservicio,
+gestionando la superficie de exhibición con fundamentos comerciales.
+ Aplicar criterios adecuados de atención al cliente.
+ Gestionar correctamente el depósito.
+ Manipular de forma adecuada los distintos productos propios de la tipología
+supermercadista
+
+Modalidad de cursado
+Tipo de cursado: 100% clases virtuales sincrónicas.
+Frecuencia: Dos encuentros semanales.
+Duración de cada encuentro: 1 hora y media.
+Plataforma: Zoom / Meet / similar.
+Acompañamiento: Consultas y seguimiento vía WhatsApp.
+
+Evaluación
+Evaluación electrónica mediante cuestionarios de opción múltiple (multiple choice).
+
+ 
+
+Certificación
+Certificado de asistencia.
+Certificado de aprobación.
+
+Docentes
+Gabriel Silva – Docente
+Licenciado en Economía. Magíster en Dirección de Empresas.
+[/curso]
+
+[curso]
+CURSO:FORMACIÓN DE VENDEDORES DE PRODUCTOS PERECEDEROS EN SUPERMERCADOS
+LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=307
+CONSULTAS:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1188
+PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1188
+Fundamentación
+La iniciativa se inscribe en el objetivo de que la universidad desarrolle y ofrezca
+formación específica al sector mercantil, el mayor generador de empleo del país, con
+especial énfasis en el supermercadismo, una de las tipologías comerciales de mayor
+protagonismo y complejidad.
+El curso propone una oferta académica focalizada en el sector de productos perecederos,
+un área crítica dentro del supermercado que requiere conocimientos específicos para su 
+correcta manipulación, conservación y comercialización. A través de esta propuesta, se busca contribuir a la mejora de la tarea cotidiana y a la proyección laboral de quienes se desempeñan —o aspiran a hacerlo— en este sector, fortaleciendo la profesionalización del empleado de comercio mediante certificación universitaria.
+El comercio y los servicios representan aproximadamente el 55% del Producto Bruto
+Interno nacional, lo que evidencia su centralidad en la economía del país. En este
+contexto, resulta estratégico generar instancias de formación específicas que acompañen
+las demandas reales del sector supermercadista.
+La capacitación en productos perecederos resulta especialmente relevante debido a la
+complejidad operativa, sanitaria y comercial que implica la manipulación de alimentos
+frescos. La propuesta se orienta a consolidar un círculo virtuoso entre universidad, sector
+productivo y entidades afines, fortaleciendo la calidad del empleo y la competitividad del sector.
+
+Destinatarios
+Personas que actualmente trabajan en el sector de productos perecederos de un
+supermercado o que aspiran a desempeñarse en dicho ámbito.
+
+Requisitos
+- Ser mayor de edad.
+- Contar con formación primaria completa
+
+ 
+
+Contenidos
+Módulo 1 - Atención al Cliente – 3 hs
+Módulo 2 - Venta Personal – 3 hs
+Módulo 3 - Venta por Autoservicio – 3 hs
+Módulo 4 - Bromatología y Calidad Alimentaria – 3 hs
+Módulo 5 - Limpieza – 3 hs
+Módulo 6 - Manejo del Producto Perecedero
+(carne, fiambres, lácteos, frutas y verduras) – 9 hs
+Módulo 7 - Evaluaciones – 3 hs
+Carga horaria total: 27 horas.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Objetivos
+- Brindar una formación específica que permita al participante adquirir herramientas para
+el manejo responsable y competente del sector de productos perecederos dentro del
+supermercado.
+
+Datos clave del cursado
+Modalidad: Virtual
+Duración total: 27 horas
+Duración estimada: 9 semanas
+Fecha estimada de inicio: 6 de abril de 2026
+Fecha estimada de finalización: 22 de mayo de 2026
+Días y horarios de cursado: Martes y jueves de 18:00 a 19:30 horas
+
+Perfil de egresoEl egresado incorporará competencias que le permitirán:
+ Manipular correctamente productos perecederos (carne, frutas y verduras, lácteos,
+fiambres y quesos, panificación).
+ Aplicar conocimientos básicos de bromatología y calidad alimentaria para la adecuada
+conservación de los alimentos.
+ Comercializar de manera competitiva esta familia de productos mediante venta
+personal y autoservicio.
+
+Modalidad de cursado
+Tipo de cursado: Clases virtuales sincrónicas.
+Frecuencia: Dos encuentros semanales.
+Duración de cada encuentro: 1 hora y media.
+Plataforma: Zoom / Meet / similar.
+Acompañamiento: Seguimiento y consultas vía WhatsApp.
+
+Evaluación
+Evaluación mediante cuestionarios electrónicos de opción múltiple (multiple choice).
+
+ 
+
+ 
+
+Certificación
+Certificado de asistencia.
+Certificado de aprobación.
+
+Docentes
+Gabriel Silva – Docente
+Licenciado en Economía. Magíster en Dirección de Empresas.
+[/curso]
+
+[curso]
+CURSO:FORMACIÓN DE VENDEDORES PARA PRODUCTOS TEXTILES Y ELECTRODOMÉSTICOS
+LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=305
+CONSULTAS:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1190
+PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1190
+Fundamentación
+La iniciativa se fundamenta en la necesidad de que la universidad desarrolle y ofrezca formación específica al sector mercantil, uno de los principales generadores de empleo del país, creando una verdadera escuela de formación del empleado de comercio con certificación universitaria.
+El curso busca mejorar la tarea cotidiana y la proyección laboral de quienes se desempeñan —o aspiran a hacerlo— en el ámbito del comercio minorista, particularmente en los rubros de productos textiles y electrodomésticos. A pesar de la amplia oferta académica existente, el sector mercantil presenta un abanico limitado de propuestas formativas orientadas a la práctica concreta de la actividad, lo que genera un vacío que
+esta propuesta se propone cubrir.
+El comercio y los servicios representan aproximadamente el 55% del Producto Bruto Interno nacional, lo que evidencia su centralidad en la estructura económica del país. En este marco, resulta estratégico articular esfuerzos formativos entre la universidad y entidades afines —como cámaras, federaciones y secretarías— generando un círculo virtuoso que fortalezca la profesionalización del sector.
+La capacitación específica en venta, atención al cliente y manejo operativo contribuye a mejorar la competitividad, la calidad del servicio y las oportunidades de crecimiento profesional de quienes integran el sector mercantil.
+
+Destinatarios
+Personas que actualmente trabajan en el comercio o que aspiran a hacerlo, particularmente en los rubros de productos textiles y electrodomésticos.
+
+Requisitos
+- Ser mayor de edad.
+- Contar con formación primaria completa
+
+ 
+
+Contenidos
+Módulo 1 - Atención al Cliente (3 hs)
+Módulo 2 - Venta Personal (3 hs)
+Módulo 3 - Venta por Autoservicio (3 hs)
+Módulo 4 - Manejo del Depósito (3 hs)
+Módulo 5 - Armado de Vidrieras (3 hs)
+Módulo 6 - Venta Electrónica (3 hs)
+Módulo 7 - Evaluaciones (3 hs)
+Carga horaria total: 21 horas
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Objetivos
+- Cubrir el vacío formativo existente en el sector mercantil mediante una propuesta
+orientada a brindar herramientas básicas y prácticas para el desempeño en la actividad
+comercial.
+
+Datos clave del cursado
+Modalidad: Virtual
+Carga horaria total: 21 horas
+Duración: 7 semanas
+Fecha estimada de inicio: 6 de abril de 2026
+Fecha estimada de finalización: 15 de mayo de 2026
+Días y horarios de cursado: Lunes y martes de 19:00 a 20:30 horas
+
+Perfil de egreso
+El egresado contará con herramientas básicas propias de la actividad mercantil, que le
+permitirán afrontar el desafío laboral con un mayor nivel de competitividad y con
+posibilidades concretas de crecimiento y proyección profesional.
+
+Modalidad de cursado
+Tipo de cursado: 100% virtual sincrónico.
+Frecuencia: Dos encuentros semanales.
+Duración de cada encuentro: 1 hora y media.
+Plataforma: Zoom / Meet / similar.
+Acompañamiento: Seguimiento y consultas vía WhatsApp.
+
+Evaluación
+Evaluación mediante cuestionarios electrónicos de opción múltiple (multiple choice).
+
+ 
+
+Certificación
+Certificado de asistencia.
+Certificado de aprobación.
+
+ 
+
+Docentes
+Guillermo Francisco Emma – Docente
+Arquitecto, especialista en arquitectura comercial, con amplia formación en gestión
+económica del retail. Autor de cuatro libros sobre la especialidad.
+Cuenta con experiencia profesional en el sector comercial
+y en la formación orientada a la actividad mercantil.
+[/curso]
+
+[curso]
+CURSO:INTELIGENCIA ARTIFICIAL APLICADA A LA GESTIÓN Y PRODUCTIVIDAD
+LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=296
+CONSULTAS:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1183
+PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1183
+Fundamentación
+El curso propone una introducción práctica y aplicada a la inteligencia artificial generativa, orientada a profesionales, comercios y estudiantes avanzados de Ciencias Económicas.
+Su finalidad es desarrollar competencias concretas para integrar herramientas de IA en tareas reales de gestión, análisis, comunicación y toma de decisiones, promoviendo un uso responsable y productivo de estas tecnologías.
+La propuesta se centra en la transferencia directa de conocimientos a la actividad laboral cotidiana, priorizando el desarrollo de habilidades prácticas por sobre abordajes teóricos extensos. Se busca que las y los participantes incorporen la inteligencia artificial como un recurso estratégico para mejorar la eficiencia, optimizar procesos y generar soluciones de impacto en su propio rol profesional.
+
+El curso responde a la oportunidad de integrar la inteligencia artificial frente a la creciente demanda de automatización de tareas administrativas, mejora de la productividad y apoyo a la toma de decisiones en organizaciones locales y regionales. La incorporación de herramientas de IA se vincula directamente con procesos de digitalización, optimización de recursos y transformación de los perfiles laborales.
+En este contexto, la propuesta se alinea con la necesidad de formar perfiles híbridos que articulen conocimientos de gestión con el uso estratégico de tecnologías digitales, contribuyendo a fortalecer la competitividad y sostenibilidad de emprendimientos, comercios y organizaciones.
+
+Destinatarios
+Profesionales, emprendedores, personal administrativo, mandos medios y estudiantes avanzados de carreras de Ciencias Económicas interesados en aplicar inteligencia artificial en su actividad.
+
+Contenidos
+Módulo 1 - IA como socio estratégico (6 hs)
+Conceptos, tipos de inteligencia artificial, casos de uso y riesgos.
+Módulo 2 - Ingeniería de prompts (6 hs)
+Estructura, plantillas y estrategias para la generación efectiva de contenidos.
+Módulo 3 - Gestión y productividad con IA (6 hs)
+Integración de IA en procesos, frameworks de trabajo y segmentación de tareas.
+Módulo 4 - Creando el cerebro digital (6 hs)
+Uso de NotebookLM y diseño de asistentes digitales personales.
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Objetivos
+- Comprender los fundamentos y alcances de la inteligencia artificial generativa.
+- Aplicar técnicas de prompting para la generación de contenidos.
+- Integrar herramientas de IA en procesos de gestión, análisis y comunicación.
+- Diseñar un asistente digital personal aplicado al propio rol laboral.
+
+ 
+
+ 
+
+Datos clave del cursado
+Modalidad: Virtual
+Duración total: 24 horas
+Duración estimada: 1 mes
+Fecha estimada de inicio: 6 de abril de 2026
+Día y horario de cursado: Lunes de 18:00 a 20:00 hs.
+
+Metodología y modalidad de trabajo
+- Clases virtuales sincrónicas.
+- Demostraciones en vivo.
+- Actividades prácticas individuales.
+- Foros de consulta y acompañamiento docente
+
+Docente
+Mg. Andrés Guillermo Pruvost
+Contador Público y Magíster en Administración de Empresas.
+Jefe de Trabajos Prácticos de la asignatura Informática en la Facultad
+de Ciencias Económicas de la UNL.
+[/curso]
+
+[curso]
+CURSO:PLANILLAS DE CÁLCULO PARA GESTIONAR TU EMPRENDIMIENTO
+LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=265
+CONSULTAS:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1174
+PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1174
+Descripción breve del curso
+Este curso surge con el objetivo de facilitar el acceso a herramientas básicas de gestión digital, partiendo de un nivel inicial absoluto en el uso de planillas de cálculo. Se propone acompañar al estudiante en la pérdida del temor al entorno digital, utilizando el software libre LibreOffice Calc, promoviendo su adopción como una alternativa gratuita, ética y legal frente al software propietario, eliminando barreras económicas de acceso.
+
+Los microemprendimientos, pequeños comercios y trabajadores independientes representan un componente clave de la economía local y regional, pero enfrentan dificultades vinculadas a la baja digitalización de sus registros. La pertinencia del curso radica en empoderar a este sector con conocimientos que le permitan a los alumnos crear sus propias planillas, adaptadas a las necesidades específicas de cada emprendimiento, mejorando la eficiencia operativa y reduciendo errores.
+
+Objetivos
+- Capacitar en el uso de herramientas fundamentales de LibreOffice Calc, facilitando la transición del registro manual al digital.
+- Brindar conocimientos para organizar información mediante planillas de cálculo, a partir de ejemplos prácticos.
+- Fomentar el uso del software libre como alternativa estratégica, legal y gratuita.
+- Incentivar la aplicación práctica de los conocimientos mediante la elaboración de un trabajo final vinculado al emprendimiento del participante.
+
+Datos clave del cursado
+Modalidad: Virtual
+Duración total: 20 horas
+Duración estimada: 2 meses
+Fecha estimada de inicio: 6 de abril de 2026
+Día y horario de cursado: Los contenidos se desarrollan principalmente mediante videos pregrabados, que pueden visualizarse en cualquier momento del día.
+Clase sincrónica inicial: Clase sincrónica inicial: lunes 6 de abril de 2026, a las 16:30 hs.
+
+Destinatarios
+Personas que nunca usaron planillas de cálculo y desean aprender a organizar la información de su emprendimiento, negocio o actividad. No se requieren conocimientos previos. Solo se necesita una PC con conexión a internet y disposición para instalar LibreOffice Calc 25.2.12 (o superior).
+
+Evaluación
+Trabajo final de elaboración propia, individual o grupal (hasta tres integrantes), orientado a resolver una necesidad real del emprendimiento o de la organización personal del participante. Para obtener el certificado de aprobación se requiere completar todas las entregas y exponer el trabajo final.
+
+Docente
+CPN Favio EMILIANI
+Contador Público Nacional (FCE-UNL).
+Técnico en Informática Aplicada al Diseño Multimedial y de Sitios Web. Experto Universitario en PHP y MySQL y en Hacking Ético.
+Vinculado a la FCE-UNL desde 2003, actualmente se desempeña como Docente Técnico Exclusivo B. Dicta cursos de planillas de cálculo a través de la Cooperadora FCE desde 2008 y desarrolla sistemas web orientados a la gestión administrativa para empresas e instituciones.
+
+Contenidos
+Unidad 1 - Introducción al curso (2 hs)
+Unidad 2 - Usos de las planillas de cálculo. Software libre y legalidad. Introducción a LibreOffice Calc. Estructura del libro, formatos, impresión y exportación a PDF. (4 hs)
+Unidad 3 - Hojas y celdas. Formatos, atajos de teclado, pegado especial y organización de la información. (4 hs)
+Unidad 4 - Fórmulas y funciones básicas. Operaciones matemáticas y funciones elementales. (4 hs)
+Unidad 5 - Trabajo Final Integrador. (6 hs)
+Carga horaria total: 20 horas.
+
+Certificación
+Certificado de aprobación sujeto a la entrega y validación del trabajo final. No se requiere asistencia sincrónica.
+
+Destinatarios
+Emprendedores de cualquier edad que no posean experiencia previa en el uso de planillas de cálculo, o cuenten con conocimientos muy básicos, y deseen mejorar su organización y gestión. Este curso constituye el nivel inicial de un ciclo de tres cursos sobre planillas de cálculo, en el que los contenidos se profundizan progresivamente.
+
+Requisitos de ingreso
+- Tener 18 años o más
+- Saber utilizar un navegador de Internet.
+- Contar con PC o notebook (no es posible cursar únicamente desde un celular).
+- Saber descargar archivos desde Internet.
+- Saber descargar e instalar Zoom.
+- Saber descargar e instalar LibreOffice Calc.
+[/curso]
+
+[curso]
+CURSO:PRODUCCIÓN SALUDABLE 360: CURSO INTEGRAL PARA EMPRENDEDORES
+LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=316
+CONSULTAS:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1204
+PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1204
+Fundamentación
+La creciente preocupación de la población por la salud y la alimentación ha impulsado una demanda sostenida y creciente de productos diferenciados nutricionalmente: opciones sin gluten, keto, veganas, fermentadas, integrales o de masa madre se consolidan como tendencias en el mercado local y global.
+La propuesta busca brindar herramientas técnicas y estratégicas que permitan desarrollar productos nutritivos, atractivos, inocuos y competitivos, integrando conocimientos de nutrición, bromatología, gestión de costos, normativa, branding y comunicación digital.
+Este curso propone una mirada multidimensional para emprendedores que elaboran alimentos y bebidas con valor agregado en términos nutricionales, con un cuerpo docente multidisciplinar con el objetivo aportar distintas miradas a la construcción de cada producto.
+
+Destinatarios
+Emprendedores, productores y personas interesadas en desarrollar alimentos y bebidas con valor nutricional diferencial, que busquen profesionalizar sus proyectos y ampliar su impacto en el mercado.
+
+Requisitos
+- Manejo básico de navegación web y Google Drive.
+- No se requieren conocimientos previos de programación.
+- Computadora (PC o notebook) con conexión estable a Internet y Google Chrome actualizado.
+- Cuenta de Google habilitada para acceso a herramientas y laboratorios.
+
+Contenidos
+La seguridad antes que nada: Buenas prácticas de manufactura, principios bromatológicos, identificación y vida útil del producto (pH, actividad de agua,
+estandarización de procesos, control de calidad). 
+Estar en el sistema es importante: Normativa provincial, inscripción de productos alimentarios en Municipalidad/ASSAl.
+Gestión económica: costos fijos y variables, cálculo de costos, control de stock, proyección de ventas.
+Nuevas tendencias en Nutrición. Alimentación antiinflamatoria, microbiota intestinal, de baja respuesta glucémica, fermentados (kéfir, yogures, etc), sin gluten, keto, alimentación basada en plantas (ej alimentos veganos).
+Construcción de marca: tu producto no sólo debe ser bueno, debe verse bien: identidad visual y narrativa.
+Marketing digital, tu vidriera de ventas ya no es solo física: estrategias de presencia en redes sociales y comunicación efectiva.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Objetivos
+- Incorporar principios básicos de buenas prácticas de manufactura y control de calidad.
+- Conocer el marco legal local y provincial para la inscripción de alimentos y bebidas.
+- Identificar y aplicar tendencias actuales en nutrición (microbiota, fermentados, alimentación antiinflamatoria, propuestas keto, veganas, sin gluten).
+- Desarrollar habilidades de cálculo de costos y proyección de ventas para evaluar la viabilidad de los productos.
+- Explorar nociones de marketing digital y redes sociales para potenciar la visibilidad.
+- Comprender los fundamentos de la construcción de marca e identidad visual.
+
+Datos clave del cursado
+Inicio: Abril 2026
+Duración: 8 semanas (16 horas totales)
+Modalidad: 100% virtual o híbrida
+Plataforma: Aula Virtual FCE (encuentros sincrónicos opcionales, grabados y disponibles). Opcional: aula híbrida de FCE para algunas clases.
+
+Docentes
+Mariela Carolina Amado.
+Licenciada en Ciencia y Tecnología de los alimentos. Cursando la Maestría en ciencia y tecnología de los alimentos. Responsable de la regional Gálvez, departamentos San Jerónimo y otros de la Agencia Santafesina de Seguridad Alimentaria. Profesora CUG-UNL.
+Sandra Elisabeth Gympel.
+Licenciada en Tecnología de Alimentos (FCV-UNR), Especialista en Ciencia y Tecnología de la Leche y Productos Lácteos (FIQ-UNL) y Magíster en Docencia
+Universitaria. Asesora particular de industria alimentaria. Profesora CUG-UNL.
+Virginia Yodice.
+Lic. en Nutrición y Magister en Educación. Profesora CUG-UNL. Nutricionista con desempeño en área clínica y de desarrollo de emprendimientos
+nutricionales digitales. 
+Marianela Gutiérrez.
+Contadora Pública Nacional.
+Maestranda en Docencia Universitaria. Docente del área de Contabilidad de la FCE UNL. Experiencia profesional en asesoramiento contable, impositivo, laboral y de gestión, y en formación emprendedora. Titular de su consultora, Assessor, desde donde, junto a otros profesionales, ofrecen un servicio de asesoramiento integral enfocado en gestión, recursos humanos, estrategia comercial y capacitación.
+[/curso]
+
+[curso]
+CURSO:CONVERTIR DATOS EN INTELIGENCIA DE NEGOCIO
+LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=302
+CONSULTAS:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1193
+PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1193
+Fundamentación
+El curso propone un recorrido teórico-práctico por el ciclo completo de un proyecto de datos, desde los fundamentos de la Ciencia de Datos hasta la generación de tableros de control que impulsen la toma de decisiones basadas en conocimiento. A lo largo de la cursada, el participante transita las etapas de ingeniería de datos, procesos de extracción, transformación y carga (ETL), modelado de datos y visualización analítica mediante el uso de Power BI.
+El mercado laboral actual demanda profesionales con competencias en gestión y análisis de datos, capaces de transformar información dispersa en conocimiento accionable. Las organizaciones generan grandes volúmenes de datos provenientes de áreas como ventas,
+marketing, finanzas, recursos humanos y operaciones; sin embargo, estos datos, por sí solos, no garantizan decisiones inteligentes. Se requieren habilidades específicas para extraer datos de múltiples fuentes, transformarlos, consolidarlos y generar reportes automatizados que mejoren la productividad y reduzcan tiempos y costos.
+En este contexto, la propuesta resulta pertinente al brindar herramientas prácticas alineadas con las necesidades reales de organizaciones públicas y privadas, promoviendo el desarrollo de perfiles capaces de diseñar soluciones de inteligencia de negocio utilizando una de las plataformas líderes del mercado
+
+ 
+
+Destinatarios
+El curso está dirigido principalmente a emprendedores y profesionales junior que necesiten desarrollar competencias en gestión de datos y herramientas de inteligencia de negocio aplicadas a contextos organizacionales, tanto del sector público como privado.
+
+Requisitos
+No se requiere experiencia previa en bases de datos, programación ni Power BI, ya que el ciclo completo de inteligencia de negocio se abordará de manera progresiva y aplicada.
+Se recomienda contar con:
+- Conocimientos básicos de bases de datos relacionales y análisis de datos.
+- Nociones generales sobre el uso de información para el análisis o la toma de decisiones.
+Requisitos materiales:
+PC o notebook con sistema operativo Windows.
+
+ 
+
+Contenidos
+Módulo 1 – Fundamentos de Business Inteligence (5hs)
+Concepto business inteligence (BI), BI vs data analytics vs data science, componentes del ecosistema BI, BI y toma de decisiones. Tipos de Datos. Bases de Datos. Almacenes de datos. Evaluación teórica.
+Módulo 2 - Power BI (10 hs)
+Conceptos generales. Instalación, configuración e interfaz. Ecosistema de Power BI. Actividad práctica de instalación y configuración.
+Módulo 3 - Trabajo con Datos (15 hs)
+Concepto ETL. Extracción, transformación y modelado de datos en Power BI. Actividades prácticas de ETL.
+Módulo 4 - Análisis de Datos (10 hs)
+Tipos de análisis de datos. Análisis descriptivo y predictivo. Análisis con DAX. Prácticas aplicadas en Power BI.
+Módulo 5 - Visualización de Datos (10 hs)
+Conceptos de visualización y dashboards. Tipos de gráficos. Actividades prácticas de visualización en Power BI.
+
+Carga horaria total: 50 horas.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Objetivos
+- Identificar y recolectar datos relevantes provenientes de distintas fuentes de
+información.
+- Aplicar procesos de extracción, transformación y carga (ETL) para asegurar la calidad
+y consistencia de los datos.
+- Diseñar y construir modelos de datos adecuados (modelo estrella) que soporten el análisis.
+- Analizar información desde una perspectiva descriptiva.
+- Diseñar visualizaciones y dashboards efectivos, alineados con objetivos de negocio.
+
+Datos clave del cursado
+Modalidad: Bimodal
+Duración total: 50 horas
+Duración estimada: 10 semanas
+Fecha estimada de inicio: 10 de abril de 2026
+Fecha estimada de finalización: 12 de junio de 2026
+Día y horario de cursado: Clases presenciales, viernes de 17:30 a 19:30 hs
+Frecuencia: 1 encuentro semanal presencial.
+Modalidad: clases presenciales con apoyo del aula virtual.
+Plataformas: Aula Virtual FCE y Zoom / Meet.
+Actividades asincrónicas: lectura de material teórico, evaluación teórica en plataforma, desarrollo de actividades prácticas y acompañamiento docente.
+
+Perfil de egreso
+Al finalizar el curso, el participante contará con las competencias necesarias para transformar datos en información útil para la toma de decisiones, aplicando el ciclo integral de la Inteligencia de Negocio, desde la obtención y preparación de los datos hasta su análisis y visualización mediante una herramienta de business intelligence.
+
+Evaluación
+- Evaluación teórica en plataforma virtual, con aprobación mínima del 60%.
+- Desarrollo progresivo de trabajos prácticos en Power BI, con tutoría docente.
+
+Certificación
+Certificado de aprobación.
+El certificado estará sujeto a la aprobación de la evaluación teórica y a la entrega y
+validación de los trabajos prácticos hasta una semana posterior a la finalización del curso.
+
+ 
+
+Docentes
+Dante Juan De Marco – Docente
+Ingeniero en Sistemas de Información (UTN), Especialista en Dirección de Proyectos y Magíster en Administración Pública (FCE-UNL). Cuenta con experiencia en proyectos de gestión y procesos basados en datos en la administración pública provincial, desempeñándose como Coordinador General del área de Ciencias de Datos e Inteligencia Artificial Aplicada de la Secretaría de Tecnologías para la Gestión. Profesor
+Titular de las cátedras Administración de Operaciones y Ciencia de Datos Aplicada a la Administración de Empresas (optativa) en la FCE-UNL.
+[/curso]
+
+[curso]
+CURSO:ATENCIÓN AL CLIENTE Y ORATORIA
+LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=299
+CONSULTAS:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1196
+PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1196
+Fundamentación
+El curso Atención al Cliente y Oratoria está diseñado para fortalecer la calidad de la atención al cliente desde una perspectiva profesional y humana, incorporando herramientas de comunicación y oratoria aplicadas a contextos laborales reales. En un escenario donde la experiencia del cliente se ha convertido en un factor estratégico para organizaciones públicas y privadas, resulta fundamental desarrollar habilidades
+comunicacionales que permitan generar vínculos de confianza, resolver conflictos y aportar valor en cada interacción.
+
+La propuesta pone el foco en la comunicación efectiva, el trato respetuoso y la presencia profesional, entendiendo la atención al cliente como un proceso integral que combina competencias técnicas, actitudinales y relacionales.
+
+El curso responde a una demanda concreta del mercado laboral vinculada al desarrollo de habilidades transversales como la comunicación interpersonal, la resolución de conflictos y la calidad del servicio. Estas competencias impactan directamente en la empleabilidad,
+el desempeño profesional y la mejora de los procesos de atención en comercios, instituciones, empresas de servicios y organizaciones en general, optimizando los vínculos entre personas y organizaciones.
+
+Destinatarios
+Abierto al público en general. Dirigido especialmente a personas que trabajan o aspiran a desempeñarse en áreas de atención al cliente, ventas, recepción, atención telefónica, administración o en cualquier rol que implique contacto directo con el cliente.
+
+Requisitos
+No se requiere experiencia previa.
+Se solicita manejo básico de plataformas de videollamadas (Zoom, Meet o similares) y uso
+de entornos virtuales de aprendizaje (aulas virtuales).
+
+Contenidos
+Módulo 1 – Contexto y experiencia del cliente (6 h)
+La atención al cliente en el contexto actual. Experiencia del usuario. Calidad del servicio y momentos clave de la atención.
+Módulo 2 – Oratoria y comunicación verbal (10 h)
+Oratoria aplicada al ámbito laboral. Construcción del mensaje. Claridad, seguridad, expresión oral y manejo de la voz.
+Módulo 3 – Comunicación no verbal y presencia profesional (6 h)
+Lenguaje corporal, postura, gestualidad, contacto visual y coherencia comunicacional.
+Módulo 4 – Comunicación aplicada y situaciones complejas (8 h)
+Atención telefónica y virtual. Tipos de clientes. Gestión de conflictos y
+conversaciones difíciles.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Objetivos
+- Comprender la importancia de la atención al cliente en la experiencia del usuario.
+- Incorporar herramientas de oratoria aplicada para mejorar la comunicación
+interpersonal en contextos laborales.
+- Aplicar técnicas para la gestión de conflictos y la resolución de situaciones
+problemáticas.
+- Desarrollar una actitud profesional orientada al servicio, promoviendo una
+comunicación centrada en las personas
+
+Datos clave del cursado
+Modalidad: Bimodal (encuentros virtuales sincrónicos y uno o dos encuentros presenciales,
+según disponibilidad institucional)
+Carga horaria total: 30 horas reloj
+Duración: 2 meses
+Fechas de dictado: Del 29 de abril al 24 de junio de 2026
+Día y horario: Miércoles de 13:00 a 15:00 hs (encuentros quincenales)
+
+Metodología
+Clases con enfoque teórico-práctico, combinando exposiciones breves, análisis de casos reales, simulaciones de situaciones de atención, ejercicios de oratoria aplicada y actividades individuales y grupales. Uso del aula virtual para materiales, seguimiento y acompañamiento docente.
+
+Modalidad de cursado
+Encuentros quincenales de 2 horas reloj.
+Actividades asincrónicas a través del aula virtual: lectura de materiales, foros, actividades prácticas, ejercicios de autoevaluación y seguimiento docente.
+
+Modalidad de evaluación
+Aprobación mediante trabajo final integrador y cumplimiento de las actividades
+propuestas. Se requiere asistencia a las clases para acceder a la instancia evaluativa.
+
+Docentes
+María Carolina Lorenzutti
+Profesora Titular de la cátedra Administración de Recursos Humanos de la Licenciatura en Administración (FCE–UNL). Especialista en formación para la atención al cliente. Amplia experiencia en capacitaciones presenciales y virtuales en ámbitos institucionales y comerciales.
+Lucía Visintini Podio
+Licenciada en Administración (UNL). Docente de la cátedra Administración II de la carrera de Contador Público (FCE–UNL).
+Juan Dandeu
+Licenciado en Administración (UNL). Docente de Administración de Recursos Humanos (FCE–UNL) y en carreras de Marketing y Dirección
+de Negocios (UCES Santa Fe). Autor de libros sobre oratoria y desarrollo profesional. Capacitador empresarial.
+[/curso]
+
+[curso]
+CURSO:MANEJO PRÁCTICO DE COOPERATIVAS Y ASOCIACIONES
+LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=304
+CONSULTAS:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1191
+PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1191
+Fundamentación
+La propuesta se inscribe en el dinámico escenario de la economía social, donde la adecuada elección de la figura jurídica, el cumplimiento normativo y una gestión eficiente resultan claves para el desarrollo sostenible de cooperativas y asociaciones. El curso
+ofrece un abordaje integral que articula los aspectos legales, contables y organizativos con herramientas de comunicación estratégica orientadas a potenciar el impacto social de estas entidades.
+Se propone fortalecer las capacidades de gestión administrativa, financiera y comunicacional, entendiendo a la comunicación como un eje transversal que contribuye a consolidar identidades organizacionales, promover la participación y generar redes colaborativas.
+El curso responde a la demanda de formación práctica orientada al fortalecimiento de organizaciones sociales, cooperativas y asociaciones civiles, contribuyendo a su sostenibilidad en el tiempo. Busca empoderar a las entidades a través del cumplimiento normativo, la correcta organización interna y el desarrollo de estrategias de comunicación que favorezcan el trabajo digno y el desarrollo comunitario.
+Asimismo, promueve la articulación con municipios y actores territoriales, alineando la gestión de estas organizaciones con principios de comunidades sostenibles y economía social.
+
+Destinatarios
+Miembros del movimiento cooperativo, profesionales de la gestión, docentes, estudiantes, graduados y actores territoriales vinculados a organizaciones sociales o municipios.
+
+Requisitos
+Ser mayor de 17 años, con o sin formación específica, y pertenecer o tener interés en la temática de la economía social y el trabajo cooperativo.
+
+ 
+
+Contenidos
+Módulo 1 – Marco Legal. Normativa aplicable y cumplimiento legal. (8 hs)
+Módulo 2 - Organización. Estructura interna, roles, funciones, actas y asambleas. (8 hs)
+Módulo 3 - Contabilidad. Libros obligatorios, rúbrica, AFIP, gestión bancaria y exenciones. (8 hs)
+Módulo 4 - Comunicación. Comunicación para el cambio. Identidad, misión, visión y
+objetivos. (8 hs)
+Módulo 5 - Comunicación. Plan de comunicación, medios, soportes y canales.
+Aportes de la IA. (8 hs)
+Módulo 6 - Sostenibilidad. Recursos y fuentes de financiamiento. (8 hs)
+Trabajo Final: Trabajo Práctico Integrador Final.
+Carga horaria total: 48 horas.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Objetivos
+- Gestionar de manera integral los aspectos legales, contables y organizativos a fin de
+asegurar la sostenibilidad de las entidades.
+- Comprender la normativa vigente y los procedimientos administrativos (AFIP, rúbrica
+de libros, asambleas).
+- Diseñar planes de comunicación estratégica que utilicen herramientas digitales y tradicionales
+para potenciar la identidad institucional y visibilizar el impacto social de la entidad.
+- Identificar y tramitar diversas fuentes de financiamiento y programas de fomento,
+promoviendo la creación de redes colaborativas.
+
+Datos clave del cursado
+Modalidad: Virtual
+Tipo de cursado: Asincrónico
+Duración total: 48 horas
+28 horas de participación con videos didácticos e interacción en aula virtual
+20 horas destinadas a lectura de materiales, actividades, autoevaluaciones y trabajo final
+Duración estimada: 10 semanas (aprox. 3 meses)
+Fecha estimada de inicio: 1 de mayo de 2026
+Fecha estimada de finalización: 1 de septiembre de 2026
+
+Perfil de egreso
+El egresado será capaz de asistir técnicamente a organizaciones sociales, participar en su
+gestión administrativa y contable, redactar actas modelo, gestionar trámites fiscales y
+diseñar estructuras comunicacionales orientadas al cambio social.
+
+Modalidad de cursado
+El curso se desarrolla en un entorno 100% virtual asincrónico a través del Aula Virtual
+UNL. Cada módulo incluye videos explicativos, grabaciones de clases, bibliografía, foros
+de presentación, actividades y consultas.
+Se prevé una autoevaluación obligatoria por módulo y un acompañamiento docente
+permanente mediante foros y espacios de coordinación. Al finalizar el curso, se habilitará
+un espacio adicional para resolver dudas pendientes.
+
+Evaluación
+-Autoevaluación obligatoria por cada módulo.
+-Trabajo Práctico Integrador Final individual, basado en la resolución de una problemática ficticia integradora.
+
+Certificación
+Certificado de asistencia.
+Certificado de aprobación.
+
+ 
+
+Docentes
+Marisel Soledad Holm
+Contadora Pública. Jefa de Trabajos Prácticos en Práctica Profesional Supervisada
+(FCE-UNL). Especialista en gestión de cooperativas de trabajo.
+Andrea Verónica Rossi
+Licenciada en Comunicación Social. Especialista en comunicación estratégica
+y docente de emprendedores.
+[/curso]
+
+[curso]
+CURSO:GESTIÓN DE EMPRENDIMIENTOS EN LA INDUSTRIA DE CÁÑAMO Y CANNABIS MEDICINAL
+LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=310
+CONSULTAS:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1197
+PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1197
+Fundamentación
+El crecimiento de la industria del cannabis medicinal y del cáñamo en Argentina, en el marco de la Ley 27.350 y normativa complementaria, plantea nuevos desafíos y oportunidades para el desarrollo de emprendimientos productivos, asociaciones y cooperativas vinculadas a la salud, el bienestar y los consumos responsables.
+En este contexto, resulta necesario contar con instancias de formación que integren aspectos legales, organizativos, contables y sanitarios, permitiendo una gestión responsable y sostenible de proyectos del sector. La propuesta se inscribe en una perspectiva de economía social y desarrollo territorial, vinculando la actividad productiva con los Objetivos de Desarrollo Sostenible (ODS) y los paradigmas actuales de salud pública y reducción de daños.
+El curso propone brindar herramientas para la creación y gestión de emprendimientos, asociaciones civiles, cooperativas y organizaciones vinculadas a la industria del cannabis medicinal y el cáñamo industrial.
+La formación articula el marco normativo vigente, la gestión administrativa y contable, los fundamentos científicos del cannabis medicinal y la construcción de redes socio-productivas, promoviendo prácticas legales, éticas y sostenibles en el desarrollo de proyectos del sector.
+
+Destinatarios
+Miembros del movimiento cannábico, profesionales de la economía social, docentes, estudiantes, graduados y actores territoriales interesados en proyectos de transformación social. Emprendedores vinculados al cannabis medicinal y al cáñamo industrial en rubros como alimentos, medicina, cosmética, diseño, comunicación, marketing, derecho, botánica, química, entre otros.
+
+Requisitos
+Ser mayor de 17 años. No se requiere formación específica previa.
+
+ 
+
+Contenidos
+Módulo 1 – Marco Legal – Ley 27.350, REPROCANN, historia del movimiento y 
+cumplimiento legal. - Carga horaria: 8 hs
+Módulo 2 - Endocannabinología y Salud – Sistema endocannabinoide, cannabis medicinal 
+y bases científicas para proyectos de salud. - Carga horaria: 8 hs
+Módulo 3 - Organización y Gestión – Diseño organizacional, roles, gestión de actas y 
+asambleas ordinarias/extraordinarias. - Carga horaria: 8 hs
+Módulo 4 - Contabilidad y Fiscalidad – Formulación y evaluación de proyectos de 
+inversión. - Carga horaria: 8 hs
+Módulo 5 - Red Socio-Productiva – Licencias INASE, ARICCAME, Ley 27.669 y 
+vinculación con ODS. - Carga horaria: 8 hs
+Módulo 6 - Integración y Derechos – Paradigma de reducción de daños, derecho laboral, 
+consumidor. Carga horaria: 8 hs
+Trabajo Integrador Final
+Total: 40 hs
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Objetivos
+- Comprender el marco normativo y regulatorio vigente (Ley 27.350, REPROCANN, Ley 27.669).
+- Desarrollar habilidades para la gestión administrativa de emprendimientos, cooperativas y ONGs.
+- Explorar estrategias de reducción de daños y su vínculo con políticas de drogas.
+- Relacionar la industria con los ODS y la sostenibilidad ambiental.
+- Conocer experiencias nacionales e internacionales del sector.
+- Reconocer los límites legales, científicos, medicinales y éticos para el desarrollo de proyectos en Argentina.
+
+Datos clave del cursado
+Modalidad: Virtual (combinación asincrónica con encuentros sincrónicos)
+Duración total: 48 horas (28 horas de cursado virtual + 20 horas de trabajo autónomo)
+Duración del cursado: 11 semanas (aprox. 3 meses)
+Fecha estimada de inicio: Mayo 2026
+Día y horario de encuentros sincrónicos: Martes de 18:00 a 20:00 horas
+Encuentros sincrónicos: Cuatro (apertura, dos de seguimiento y cierre)
+Entorno de cursado: Aula Virtual FCE – Zoom / Meet o similar
+
+Perfil de egreso
+Al finalizar el curso, el egresado contará con herramientas para la creación y gestión de  entidades del sector, con conocimientos en cumplimiento legal, contabilidad, fiscalidad y  paradigmas de salud pública aplicados al cannabis medicinal.
+
+Modalidad de cursado
+El curso combina actividades asincrónicas con cuatro encuentros sincrónicos programados. El aula virtual estará organizada para guiar el recorrido formativo módulo a módulo, incluyendo videos, clases grabadas, bibliografía, foros de presentación, actividades y consultas.
+En caso de no asistir a los encuentros sincrónicos, se solicitará un control de lectura y visualización de los materiales. Cada módulo incluye una autoevaluación obligatoria y el cursado finaliza con un Trabajo Práctico Integrador.
+
+Evaluación
+Autoevaluación por módulo.
+Trabajo Práctico Integrador Final grupal (hasta 3 personas), sobre una problemática real o ficticia.
+
+Certificación
+Certificado de asistencia.
+
+Docentes
+Marisel Soledad Holm
+Contadora Pública Nacional. Docente FCE-UNL 
+(JTP – Práctica Profesional Supervisada).
+David Ezequiel Rojkin
+Abogado (FCJS-UNL). Especialista en Legislación de Cannabis y Cáñamo y Política
+de Drogas. Presidente de Conectar Asociación Civil.
+Santiago Gullino
+Médico (FCM-UNL). Especialista en endocannabinología. Fundador y tesorero
+de la Sociedad Latinoamericana Interdisciplinaria de Cannabinología (SLIC).
+Ignacio Rodrigo Hernández
+Ingeniero Químico (FIQ-UNL). Doctorando en Calidad e Innovación Industrial.
+Socio fundador de Arcann S.A., EBT incubada en el PTLC.
+[/curso]
+
+[curso]
+CURSO:INTRODUCCIÓN A LA OPERATORIA EN MERCADO DE CAPITALES PARA ORGANIZACIONES
+LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=300
+CONSULTAS:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1195
+PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1195
+Fundamentación
+Los instrumentos de inversión y de financiamiento disponibles en el mercado de capitales constituyen herramientas clave para la gestión de la tesorería de las organizaciones. Su utilización permite optimizar excedentes financieros, acceder a fuentes alternativas de financiamiento y mejorar la toma de decisiones financieras. 
+No obstante, el uso adecuado de estos instrumentos requiere comprender su funcionamiento, alcances, ventajas y riesgos asociados. En este sentido, el curso se propone brindar una introducción ordenada a la operatoria del mercado de capitales, permitiendo a los participantes adquirir nociones fundamentales para evaluar alternativas de inversión y financiamiento en un marco informado y responsable.
+
+El mercado de capitales ofrece soluciones concretas tanto para organizaciones públicas como privadas, así como para entidades profesionales y financieras. La creciente complejidad de los instrumentos disponibles hace necesario contar con instancias de
+formación que acerquen estos contenidos de manera accesible y estructurada a quienes se desempeñan en áreas vinculadas a la gestión financiera. La propuesta contribuye a fortalecer competencias financieras básicas en trabajadores y profesionales que interactúan con decisiones de inversión, financiamiento y administración de recursos monetarios.
+
+Destinatarios
+- Estudiantes avanzados de carreras de Ciencias Económicas.
+- Profesionales de áreas contables, financieras, administrativas y de gestión.
+- Integrantes de cajas profesionales y entidades financieras que participen o deban interactuar con decisiones de inversión o administración de excedentes de liquidez.
+- Personas interesadas en adquirir una base conceptual del mercado de capitales argentino con enfoque organizacional.
+
+Requisitos
+No se requiere experiencia previa.
+Se solicita manejo básico de plataformas de videollamadas (Zoom, Meet o similares) y uso
+de entornos virtuales de aprendizaje (aulas virtuales).
+
+Contenidos
+Módulo 1 - Marco normativo e instituciones del mercado de capitales argentino.
+Módulo 2 - Elementos de matemática financiera y criterios de evaluación de inversiones.
+Módulo 3 - Instrumentos de renta fija.
+Módulo 4 - Instrumentos de renta variable.
+Módulo 5 - Fondos comunes de inversión.
+Módulo 6 - Otros instrumentos de inversión y financiamiento.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Objetivos
+- Introducir al estudiante en el funcionamiento del mercado de capitales argentino y
+su marco institucional.
+- Comprender la lógica de la operatoria financiera desde la perspectiva de organizaciones.
+- Incorporar nociones básicas de matemática financiera aplicadas a la evaluación de
+instrumentos de inversión y financiamiento.
+- Conocer las características, riesgos y usos de los principales instrumentos de renta fija,
+renta variable y fondos comunes de inversión, entre otros instrumentos.
+- Desarrollar criterios iniciales para analizar alternativas de inversión.
+
+Datos clave del cursado
+Modalidad: Virtual sincrónico
+Plataformas: Aula Virtual FCE y Zoom / Meet / similar.
+Duración total: 10 horas (5 encuentros de 2 horas cada uno)
+Duración estimada: 5 semanas
+Fecha estimada de inicio: 17 de julio de 2026
+Fecha estimada de finalización: 14 de agosto de 2026
+Día y horario de cursado: Viernes de 18:00 a 20:00 hs.
+
+Evaluación
+Dos evaluaciones parciales realizadas en el aula virtual.
+La aprobación se obtiene a partir del promedio de ambas calificaciones
+
+ 
+
+Docentes
+Gaspar Ángel Res – Docente
+Contador Público Nacional. Especialista en Contabilidad y Auditoría
+para Pymes (FCE-UNL).
+Docente de la asignatura Administración Financiera en la FCE-UNL
+desde 2014 y del Seminario "Mercados de capitales: Pespectiva desde las finanzas
+personales" desde 2017.
+Docente del Módulo "Historia e instituciones del sistema financiero argentino"
+de la Diplomatura Universitaria Superior en Operatoria y análisis de mercados
+financieros" (FCE- UNL).
+Asesor Financiero. Agente Productor CNV
+[/curso]
+
+[curso]
+CURSO:TRADING PROFESIONAL BASADO EN EVIDENCIA
+LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=314
+CONSULTAS:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1202
+PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1202
+Fundamentación
+El curso ofrece una formación avanzada y práctica orientada al trading profesional y responsable. A diferencia de enfoques puramente teóricos o especulativos, integra el análisis técnico con una gestión estricta del riesgo, la validación estadística de estrategias y el control emocional del operador.
+La propuesta se fundamenta en la necesidad de preservar el capital y tomar decisiones basadas en datos objetivos, utilizando un enfoque de “aprender haciendo” mediante el uso de simuladores y bitácoras de operación. Se busca dotar a los participantes de herramientas profesionales para operar en mercados financieros, reduciendo sesgos cognitivos y conductas de alto riesgo.
+Ante el crecimiento del trading minorista y la accesibilidad masiva a plataformas financieras, existe una demanda crítica de educación financiera seria que contrarreste promesas de rentabilidad fácil y esquemas fraudulentos. Este curso fortalece el vínculo entre la universidad, la comunidad y el sector productivo, profesionalizando una actividad económica en expansión y promoviendo disciplina, pensamiento crítico y gestión patrimonial responsable en el ámbito regional.
+
+Destinatarios
+Estudiantes avanzados, graduados de carreras de Ciencias Económicas y público general emprendedor que desee profesionalizar su práctica de inversión y trading. La propuesta aporta valor a quienes ya poseen conocimientos básicos, pero carecen de consistencia operativa o de una adecuada gestión del riesgo.
+
+Requisitos
+- Conocimientos básicos de mercados financieros, instrumentos y lectura de gráficos (se sugiere haber cursado un nivel introductorio o acreditar experiencia equivalente).
+- Acceso a PC o notebook con conexión estable a Internet.
+- Manejo básico de herramientas informáticas.
+
+Contenidos
+Módulo 1 - Contexto y estructura. Marco operativo, estructura de mercado, lectura multi-timeframe, configuración de entorno profesional y checklist. (8 hs)
+Módulo 2 - Gestión y estadística. Gestión del riesgo, tamaño de posición, stops, expectativa matemática, drawdown y validación de sistemas. (8 hs)
+Módulo 3 - Estrategia y psicología. Reglas de entrada y salida, backtesting, sesgos cognitivos, disciplina y psicotrading. (8 hs)
+Módulo 4 - Ejecución y mejora. Gestión activa del trade, trailing stops, revisión de bitácora, optimización del plan y Proyecto Final Integrador. (8 hs)
+Carga horaria total: 32 horas.
+
+Aclaraciones relevantes
+El curso requiere un cupo mínimo de 30 y máximo de 60 participantes para garantizar la calidad del seguimiento y las tutorías prácticas.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Objetivos
+- Comprender y aplicar el proceso completo de decisión en trading (hipótesis, ejecución, registro y revisión).
+- Diseñar y documentar un Plan de Trading operable con reglas claras y gestión de riesgo cuantificable.
+- Incorporar estadística práctica aplicada al trading (drawdown, tasa de acierto,R-múltiplos) para validar estrategias.
+- Entrenar habilidades de control emocional mediante rutinas y registro sistemático en bitácora.
+
+Datos clave del cursado
+Modalidad: Virtual
+Duración total: 32 horas (16 horas sincrónicas + 16 horas asincrónicas y práctica guiada)
+Duración del cursado: 2 meses
+Fecha estimada de inicio: 1 de agosto de 2026
+Fecha estimada de finalización: 26 de septiembre de 2026
+Día y horario de cursado: Sábados de 9:00 a 11:00 horas
+
+Perfil de egreso
+Al finalizar el curso, el participante podrá operar en mercados financieros (simulados o reales) bajo un marco de reglas estrictas. Será capaz de analizar el contexto de mercado mediante análisis técnico, calcular el tamaño de posición para proteger su capital, documentar operaciones de forma profesional y auditar su desempeño utilizando métricas estadísticas, reduciendo la discrecionalidad emocional.
+
+Modalidad de cursado
+Frecuencia: 1 encuentro semanal.
+Duración: 2 horas reloj por encuentro.
+Plataformas: Aula Virtual FCE, Zoom / Meet, TradingView y simuladores de mercado.
+Actividades asincrónicas: práctica semanal en simulador (paper trading), registro obligatorio de operaciones en bitácora y desarrollo progresivo del Proyecto Final (Plan de Trading documentado).
+
+Evaluación
+- Asistencia mínima del 70% a los encuentros sincrónicos.
+- Registro y entrega de actividades prácticas semanales (análisis y bitácora).
+- Aprobación del Proyecto Final Integrador: estrategia documentada, plan de riesgo y reporte de resultados en simulación o backtest.
+
+Certificación
+Certificado de aprobación.
+
+Docentes
+Bernabé Marcelo Lorio – Docente FCE-UNL. Contador Público Nacional (FCE-UNL), con posgrados en Tributación (FCE-UNL) e Ingeniería en Calidad (UTN), y diplomatura en Bitcoin, Blockchain y Criptoeconomía. Profesional con más de 25 años de experiencia en asesoramiento tributario y financiero, especializado en economía digital, criptoactivos y mercados financieros. Autor del libro Trading Exponencial: Libera tu Potencial con el Efecto Compuesto y la Gestión Emocional. Socio en Menter SAS y consultor independiente. Docente en cursos de extensión y diplomaturas vinculadas a finanzas en la FCE y FBCB.
+[/curso]
+
+[curso]
+CURSO:LA CONSTRUCCIÓN DEL PENSAMIENTO PROPORCIONAL
+LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=311
+CONSULTAS:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1198
+PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1198
+Fundamentación
+El curso se concibe como un espacio de formación, análisis crítico y elaboración de propuestas didácticas en torno a la enseñanza de la proporcionalidad directa, entendida como un concepto matemático complejo que no puede reducirse al cálculo de operaciones aritméticas simples. En su construcción intervienen diversos tipos de razonamientos y nociones matemáticas que se articulan a lo largo del trayecto educativo y que requieren ser integradas de manera coherente.
+El pensamiento proporcional constituye una herramienta cognitiva fundamental para comprender fenómenos socioculturales, educativos y laborales. En particular, en áreas vinculadas a la economía, la administración y la gestión de recursos, resulta estratégico para la toma de decisiones basadas en análisis racionales. Desde los enfoques educativos actuales, se lo reconoce como una competencia que la educación formal debe contribuir a desarrollar de manera progresiva y situada.
+La propuesta se enmarca en la Teoría Socioepistemológica (Cantoral, 2016; Reyes Gasperini, 2016), la cual brinda un marco teórico para comprender el proceso de construcción de esta noción, analizar críticamente las prácticas de enseñanza, identificar obstáculos conceptuales recurrentes y orientar el diseño de propuestas didácticas que favorezcan el desarrollo del pensamiento proporcional en contextos significativos.Diversos estudios señalan la persistencia de dificultades, errores y confusiones en estudiantes de nivel superior respecto del uso de razonamientos aditivos y multiplicativos, aun cuando la proporcionalidad se trabaja desde los primeros años de escolaridad. Estas dificultades evidencian la complejidad conceptual de la noción y la necesidad de revisar críticamente las prácticas de enseñanza tradicionales.
+En el ámbito de las Ciencias Económicas, estas limitaciones impactan directamente en la comprensión de problemáticas vinculadas a precios, costos, tasas, escalas, crecimiento y análisis comparativo. En este sentido, el curso responde a una necesidad formativa concreta al proponer un abordaje didáctico que articule fundamentos teóricos con escenarios económicos reales, contribuyendo a mejorar la enseñanza y el aprendizaje de una competencia clave para la formación profesional.
+
+Destinatarios
+Docentes de nivel primario, secundario y terciario
+
+Requisitos
+Formación y/o experiencia docente en cualquier nivel educativo.
+
+ 
+
+Contenidos
+Módulo 1 – Marco Socioepistemológico (12 hs)
+Introducción a la Teoría Socioepistemológica. El rol del contexto económico en la construcción del sentido de los objetos matemáticos.
+Módulo 2 – Fundamentos y Obstáculos (12 horas)
+Razonamientos aditivos y multiplicativos en economía. Errores frecuentes en la aplicación del concepto de proporcionalidad en contextos económicos.
+Módulo 3 – Didáctica y Aplicación (30 horas)
+Diseño de situaciones de aprendizaje situadas. Uso de escenarios económicos (mercados, finanzas, demografía) para la enseñanza de la proporcionalidad directa.
+Carga horaria total: 54 horas.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Objetivos
+- Problematizar la enseñanza de la proporcionalidad a partir del análisis de obstáculos y errores recurrentes en el tránsito de lo aditivo a lo multiplicativo, en el contexto de las Ciencias Económicas.
+- Comprender, desde la Teoría Socioepistemológica, los distintos razonamientos asociados al pensamiento proporcional.
+- Elaborar propuestas didácticas situadas que reconozcan escenarios económicos como fuentes de sentido para la construcción del saber matemático.
+
+Datos clave del cursado
+Modalidad: Bimodal
+Duración total: 54 horas
+Duración estimada: 3 meses
+Fecha estimada de inicio: 31 de agosto de 2026
+Fecha estimada de finalización: 27 de noviembre de 2026
+Días y horarios de cursado: Dos encuentros presenciales, jueves de 18 a 20 horas
+
+Perfil de egreso
+Al finalizar el curso, se espera que las y los participantes puedan fundamentar su práctica docente desde la Teoría Socioepistemológica y diseñar secuencias didácticas situadas que utilicen problemas económicos reales como motor para el desarrollo de competencias matemáticas vinculadas a la proporcionalidad
+
+Modalidad de cursado
+Tipo de clases: Clases virtuales asincrónicas y dos presenciales
+Frecuencia: Una clase semanal.
+Duración de cada encuentro: 2 horas. 
+Actividades asincrónicas: Aula virtual-FCE
+
+Metodología y modalidad de trabajo
+El curso se desarrollará bajo una modalidad bimodal, integrando trabajo asincrónico y encuentros presenciales.
+Ambiente Virtual de Aprendizaje (Aula Virtual FCE): abordaje teórico, recursos multimodales, lecturas guiadas y foros de discusión académica.
+Taller Presencial de Diseño Pedagógico Situado: producción colaborativa de secuencias didácticas aplicadas a escenarios propios de las Ciencias Económicas.
+Se prevé una actividad asincrónica semanal y la realización de dos encuentros presenciales.
+
+Evaluación
+Evaluación mediante trabajo grupal integrador
+
+Certificación
+Certificado de asistencia.
+Certificado de aprobación.
+
+Docentes
+El curso cuenta con un equipo pedagógico con sólida formación académica y amplia trayectoria en docencia, investigación y extensión universitaria, especializado en educación matemática y su articulación con las Ciencias Económicas.
+María Alejandra Santarrone
+Formación académica: Profesora en Matemática. Magíster en Docencia Universitaria (FHUC–UNL). Docente investigadora categorizada (Categoría V).
+Cuenta con más de 23 años de experiencia docente en distintos niveles educativos y 9 años como Jefa del Departamento de Matemática de la Escuela Industrial Superior (FIQ–UNL). Es Profesora Adjunta en la cátedra de Estadística de la Facultad de Ciencias Económicas (UNL) y Profesora Titular en la cátedra Matemática Aplicada a la Arquitectura II (FADU–UNL). Integra el Observatorio Académico de la FCE–UNL y desarrolla actividades de investigación en Educación Estadística, con participación en congresos y publicaciones académicas. Posee experiencia en el uso de tecnologías digitales, entornos 
+virtuales de aprendizaje y herramientas de análisis y visualización de datos.
+Silvana Grisetti
+Formación académica: Profesora en Matemática (FHUC–UNL). Especialización en Didáctica de la Matemática en curso de finalización. Maestranda en Docencia Universitaria (UNL). Posee trayectoria en docencia en niveles primario, secundario y universitario. Ha dictado talleres de matemática y realizado tutorías para estudiantes participantes de la Olimpíada Matemática Ñandú. Fue tutora en cursos de ingreso a carreras de matemática de la UNL. Desde 2016 integra el Departamento de Matemática de la FCE–UNL en las cátedras Matemática como Lenguaje y Cálculo para Ciencias Económicas, desarrollando tareas de docencia, investigación y extensión. Es coautora del libro Cálculo para Ciencias Económicas. Abordaje conceptual significativo y autora de trabajos presentados en congresos de educación matemática.
+Bautista Nañez
+Estudiante avanzado de la Licenciatura en Economía (FCE–UNL). Se desempeñó como pasante en la cátedra de Cálculo para Ciencias Económicas entre 
+2022 y 2025, realizando tareas de acompañamiento académico y apoyo docente. Actualmente participa como cientibecario en un proyecto CAI+D dirigido por la Mg. María Alejandra Santarrone.
+[/curso]
+
+[curso]
+CURSO:TEORÍA DE JUEGOS: FUNDAMENTOS MATEMÁTICOS Y APLICACIONES EN ECONOMÍA, ADMINISTRACIÓN Y MARKETING
+LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=312
+CONSULTAS:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1199
+PREINSCRIPCIÓN:https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showLogin&id_curso=1199
+Fundamentación
+El curso introduce los conceptos centrales de la Teoría de Juegos, articulando modelos formales con situaciones reales de interacción estratégica entre agentes. Su finalidad es brindar herramientas conceptuales y analíticas que permitan comprender, modelizar y analizar contextos en los que las decisiones de distintos actores se influyen mutuamente.
+Se abordan juegos estáticos con información completa, en los que los jugadores toman decisiones simultáneamente y una sola vez, sin conocer previamente las decisiones de los demás, recibiendo luego resultados que dependen de la combinación de estrategias elegidas. Como estrategias de resolución se desarrollan la mejor respuesta, las estrategias dominantes y el equilibrio de Nash.
+La propuesta resulta pertinente porque favorece el desarrollo del pensamiento estratégico, la anticipación de comportamientos y la evaluación de escenarios posibles, competencias clave para la toma de decisiones racionales tanto en contextos competitivos como cooperativos. Su alcance es formativo y aplicado, integrando fundamentos matemáticos con problemas propios de la economía, la administración y el marketing.
+El curso responde a demandas actuales del ámbito laboral y productivo que requieren perfiles capacitados en análisis de mercados, diseño de estrategias de negociación, fijación de precios, competencia entre empresas y toma de decisiones bajo incertidumbre. Aporta herramientas relevantes para desempeños en áreas como análisis económico, planificación estratégica, gestión empresarial, marketing, consultoría, formulación de políticas y análisis de datos.
+
+Destinatarios
+Estudiantes avanzados y graduados de carreras de Ciencias Económicas, Administración, Economía, Marketing y disciplinas afines; docentes de Matemática y Economía de los niveles secundario, terciario y universitario; profesionales vinculados a la gestión, el análisis económico y la toma de decisiones estratégicas; y público en general interesado en el análisis estratégico.
+
+Requisitos
+Personas mayores de 18 años.
+Nivel secundario completo.
+Conocimientos elementales de matrices (no excluyente).
+
+ 
+
+Contenidos
+Módulo 1 - Conceptos fundamentales de la Teoría de Juegos. Desarrollo de ejemplos. (20 hs)
+Módulo 2 - Técnicas de resolución de juegos. Resolución de problemas diversos. (20 hs)
+Módulo 3 - Discusión y resolución de situaciones planteadas por los participantes. (20 hs) 
+Trabajo Final Integrador.
+Carga horaria total: 60 horas.
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Objetivos
+- Introducir los fundamentos matemáticos de la Teoría de Juegos.
+- Aplicar herramientas de la Teoría de Juegos a problemas de la Economía, la Administración y el Marketing.
+- Desarrollar el pensamiento estratégico y la capacidad de modelización.
+
+Datos clave del cursado
+Modalidad: Virtual
+Duración total: 60 horas
+Duración estimada: 3 meses
+Fecha estimada de inicio: 31 de agosto de 2026
+Fecha estimada de finalización: 27 de noviembre de 2026
+Días y horarios de cursado: Martes de 18:00 a 20:00 horas
+
+Perfil de egreso
+Al finalizar el curso, se espera que el participante sea capaz de modelizar problemas económicos, organizacionales y de mercado mediante representaciones matemáticas simples, como matrices de pago y esquemas de decisión, interpretar los resultados en contextos reales, evaluar escenarios alternativos y anticipar comportamientos de distintos actores, fortaleciendo la planificación estratégica y la toma de decisiones.
+
+Modalidad de cursado
+Frecuencia: 1 encuentro semanal, con posibilidad de incorporar clases de consulta optativas.
+Duración: 2 horas reloj por encuentro.
+Modalidad: clases virtuales sincrónicas y asincrónicas.
+Plataformas: Aula Virtual FCE y Zoom / Meet.
+Actividades asincrónicas: resolución de problemas, participación en foros y trabajos individuales o grupales, según la cantidad de participantes.
+
+Metodología y modalidad de trabajo
+El curso se desarrollará bajo una modalidad bimodal, integrando trabajo asincrónico y encuentros presenciales.
+Ambiente Virtual de Aprendizaje (Aula Virtual FCE): abordaje teórico, recursos multimodales, lecturas guiadas y foros de discusión académica.
+Taller Presencial de Diseño Pedagógico Situado: producción colaborativa de secuencias didácticas aplicadas a escenarios propios de las Ciencias Económicas.
+Se prevé una actividad asincrónica semanal y la realización de dos encuentros presenciales.
+
+Evaluación
+Trabajo final grupal con defensa oral. 
+
+Certificación
+Certificado de asistencia.
+Certificado de aprobación.
+
+Docentes
+Claudia Zanabria – Docente / Tutora
+Profesora en Matemática, Especialista y Magíster en Docencia Universitaria (UNL). Profesora Titular ordinaria de la cátedra Matemática como Lenguaje en la FCE-UNL. Investigadora categorizada en Educación Matemática, integrante de proyectos CAI+Dy autora de publicaciones en revistas, libros y congresos.
+Verónica Valetti – Docente / Tutora
+Licenciada en Matemática Aplicada, Profesora en Matemática y Especialista en Didáctica de la Matemática (UNL). JTP ordinaria y Profesora Adjunta en la cátedra Matemática como Lenguaje de la FCE-UNL. Integrante de proyectos CAI+D y de extensión, con publicaciones académicas.
+Silvana Grisetti – Docente / Tutora
+Profesora en Matemática, con Trabajo Final Integrador en etapa de cierre de la Especialización en Didáctica de la Matemática (UNL). JTP en Matemática como 
+Lenguaje y Profesora Adjunta en Cálculo para Ciencias Económicas en la FCE-UNL. Integrante de proyectos CAI+D y de extensión, con publicaciones en congresos.
+Fátima Quinteros - Docente / Tutora
+Especialista en Didáctica de la Matemática (2024, FHUC-UNL), Profesora de Educación Secundaria en Matemática (2015, ENS N°32). JTP con dedicación semiexclusiva en la cátedra “Matemática como Lenguaje” en la Facultad de Ciencias Económicas, UNL. JTP con dedicación simple en las cátedras “Matemática I” y “Matemática II” en el Centro Universitario Gálvez, UNL. JTP simple en la cátedra “Matemática aplicada a la arquitectura I” en la Facultad de Arquitectura, Diseño y Urbanismo, UNL. Profesora titular en la asignatura Matemática en la Escuela de Educación Secundaria Orientada Particular Incorporada N° 8016 “Nuestra Señora del Huerto”. Integrante de proyectos de investigación CAI+D y de proyectos de  extensión de UNL.
+[/curso]
 
