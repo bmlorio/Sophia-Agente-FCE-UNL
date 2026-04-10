@@ -45,9 +45,7 @@ Datos clave del cursado
 Modalidad: Bimodal
 Duración total: 19 horas reloj
 Duración del cursado: 2 meses y medio
-Fecha estimada de inicio: 15 de abril de 2026
-Fecha estimada de finalización: 24 de junio de 2026
-Día y horario de cursado: Miércoles de 18:30 a 20:30 hs
+Fecha estimada de inicio: 18 de mayo  de 2026
 Entorno de cursado: Aula Virtual FCE y encuentros taller presenciales.
 
 Modalidad de cursado
@@ -1102,9 +1100,9 @@ Datos clave del cursado
 Modalidad: Virtual
 Duración total: 20 horas
 Duración estimada: 2 meses
-Fecha estimada de inicio: 6 de abril de 2026
+Fecha estimada de inicio: 18 de mayo de 2026 a las 16:30 hs (primer clase sincrónica de presentación del curso)
 Día y horario de cursado: Los contenidos se desarrollan principalmente mediante videos pregrabados, que pueden visualizarse en cualquier momento del día.
-Clase sincrónica inicial: Clase sincrónica inicial: lunes 6 de abril de 2026, a las 16:30 hs.
+
 
 Destinatarios
 Personas que nunca usaron planillas de cálculo y desean aprender a organizar la información de su emprendimiento, negocio o actividad. No se requieren conocimientos previos. Solo se necesita una PC con conexión a internet y disposición para instalar LibreOffice Calc 25.2.12 (o superior).
@@ -1276,8 +1274,7 @@ Datos clave del cursado
 Modalidad: Bimodal
 Duración total: 50 horas
 Duración estimada: 10 semanas
-Fecha estimada de inicio: 10 de abril de 2026
-Fecha estimada de finalización: 12 de junio de 2026
+Fecha estimada de inicio: 8 de mayo de 2026
 Día y horario de cursado: Clases presenciales, viernes de 17:30 a 19:30 hs
 Frecuencia: 1 encuentro semanal presencial.
 Modalidad: clases presenciales con apoyo del aula virtual.
