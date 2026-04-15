@@ -456,8 +456,8 @@ Datos clave del cursado
 Modalidad: Virtual
 Duración total: 40 horas
 Duración del cursado: 3 meses
-Fecha estimada de inicio: mayo de 2026
-Día y horario de cursado: Sábados de 9:00 a 11:00 hs
+Fecha estimada de inicio: 8 de mayo de 2026
+Día y horario de cursado: Viernes de 18 a 20 hs
 
 Perfil de egreso
 Al finalizar el curso, el participante podrá integrar inteligencia artificial en su flujo de trabajo para resolver problemas reales, crear automatizaciones, desarrollar asistentes personalizados y generar productos digitales básicos, mejorando la productividad y la toma de decisiones.
