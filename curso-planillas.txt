@@ -1055,8 +1055,8 @@ Datos clave del cursado
 Modalidad: Virtual
 Duración total: 24 horas
 Duración estimada: 1 mes
-Fecha estimada de inicio: mayo de 2026
-Día y horario de cursado: Lunes de 18:00 a 20:00 hs.
+Fecha estimada de inicio: 6 de mayo de 2026
+Día y horario de cursado: Miércoles de 18:00 a 20:00 hs.
 
 Metodología y modalidad de trabajo
 - Clases virtuales sincrónicas.
