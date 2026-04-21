@@ -182,8 +182,8 @@ Datos clave del cursado
 Modalidad: Bimodal
 Carga horaria total: 48 horas
 Duración: 2 meses
-Inicio de dictado: mayo de 2026
-Día y horario: Viernes de 14:00 a 16:00 horas
+Inicio de dictado: 8 de mayo de 2026
+Día y horario: Viernes de 14:00 a 15:30 horas
 Frecuencia: Un encuentro semanal
 Entorno de cursado: Aula Virtual FCE – Zoom / Meet o simila
 
@@ -288,7 +288,7 @@ Datos clave del cursado
 Modalidad: Bimodal
 Duración total: 48 horas
 Duración estimada: 3 meses
-Fecha estimada de inicio: mayo de 2026
+Fecha estimada de inicio: 6 de agosto de 2026
 Día y horario de cursado: Jueves de 18:00 a 20:00 hs
 Plataformas: Aula Virtual FCE y Zoom / Meet.
 Actividades asincrónicas: trabajos prácticos, seguimiento de actividades y desarrollo del
@@ -1183,7 +1183,7 @@ Objetivos
 - Comprender los fundamentos de la construcción de marca e identidad visual.
 
 Datos clave del cursado
-Inicio: Mayo 2026
+Inicio: 2 de junio  2026, martes y jueves 13 a 15 hs
 Duración: 8 semanas (16 horas totales)
 Modalidad: 100% virtual o híbrida
 Plataforma: Aula Virtual FCE (encuentros sincrónicos opcionales, grabados y disponibles). Opcional: aula híbrida de FCE para algunas clases.
@@ -1861,8 +1861,7 @@ Datos clave del cursado
 Modalidad: Virtual
 Duración total: 60 horas
 Duración estimada: 3 meses
-Fecha estimada de inicio: 31 de agosto de 2026
-Fecha estimada de finalización: 27 de noviembre de 2026
+Fecha estimada de inicio: 31 de mayo de 2026
 Días y horarios de cursado: Martes de 18:00 a 20:00 horas
 
 Perfil de egreso
