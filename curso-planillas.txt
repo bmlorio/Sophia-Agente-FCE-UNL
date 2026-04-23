@@ -584,8 +584,8 @@ Datos clave del cursado
 Modalidad: Virtual
 Duración total: 36 horas
 Duración estimada: 3 meses
-Fecha estimada de inicio: mayo de 2026
-Días y horarios de cursado: Martes de 18:00 a 19:30 hs
+Fecha estimada de inicio: Miércoels 20 de mayo de 2026 de 19.30 a 21
+
 
 Perfil de egreso
 El egresado contará con las herramientas necesarias para desenvolverse en una de las
@@ -697,9 +697,9 @@ Datos clave del cursado
 Modalidad: Virtual
 Carga horaria total: 30 horas
 Duración estimada: 2 meses y medio
-Fecha estimada de inicio: mayo de 2026
-Fecha estimada de finalización: 15 de mayo de 2026
-Día y horario: Jueves y viernes de 18:00 a 19:30 horas
+Fecha estimada de inicio: 21 mayo de 2026 de 19.30 a 21 hs
+
+
 
 Perfil de egreso
 El egresado contará con herramientas para la gestión de una de las tipologías comerciales
@@ -804,8 +804,8 @@ Datos clave del cursado
 Modalidad: Virtual
 Duración total: 18 horas
 Duración estimada: 6 semanas
-Fecha estimada de inicio: mayo de 2026
-Días y horarios de cursado: Martes y jueves de 19:00 a 20:30 horas
+Fecha estimada de inicio: Lunes 18 mayo de 2026 de 19.30 a 21
+
 
 Perfil de egreso
 El egresado contará con herramientas que le permitirán:
@@ -903,8 +903,8 @@ Datos clave del cursado
 Modalidad: Virtual
 Duración total: 27 horas
 Duración estimada: 9 semanas
-Fecha estimada de inicio: mayo de 2026
-Días y horarios de cursado: Martes y jueves de 18:00 a 19:30 horas
+Fecha estimada de inicio: 19 de mayo de 2026 de 19.30 a 21.00
+
 
 Perfil de egresoEl egresado incorporará competencias que le permitirán:
  Manipular correctamente productos perecederos (carne, frutas y verduras, lácteos,
@@ -991,8 +991,7 @@ Datos clave del cursado
 Modalidad: Virtual
 Carga horaria total: 21 horas
 Duración: 7 semanas
-Fecha estimada de inicio: mayo de 2026
-Días y horarios de cursado: Lunes y martes de 19:00 a 20:30 horas
+Fecha estimada de inicio: 22 de mayo de 2026 de 19:30 a 21:00 horas
 
 Perfil de egreso
 El egresado contará con herramientas básicas propias de la actividad mercantil, que le
