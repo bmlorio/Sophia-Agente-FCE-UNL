@@ -204,7 +204,7 @@ Datos clave del cursado
 Modalidad: Bimodal
 Carga horaria total: 48 horas
 Duración: 2 meses
-Inicio de dictado: 8 de mayo de 2026
+Inicio de dictado: 22 de mayo de 2026
 Día y horario: Viernes de 14:00 a 15:30 horas
 Frecuencia: Un encuentro semanal
 Entorno de cursado: Aula Virtual FCE – Zoom / Meet o simila
@@ -478,7 +478,7 @@ Datos clave del cursado
 Modalidad: Virtual
 Duración total: 40 horas
 Duración del cursado: 3 meses
-Fecha estimada de inicio: 8 de mayo de 2026
+Fecha estimada de inicio: 21 de mayo de 2026
 Día y horario de cursado: Viernes de 18 a 20 hs
 
 Perfil de egreso
@@ -1076,7 +1076,7 @@ Datos clave del cursado
 Modalidad: Virtual
 Duración total: 24 horas
 Duración estimada: 1 mes
-Fecha estimada de inicio: 6 de mayo de 2026
+Fecha estimada de inicio: 20 de mayo de 2026
 Día y horario de cursado: Miércoles de 18:00 a 20:00 hs.
 
 Metodología y modalidad de trabajo
@@ -1287,7 +1287,7 @@ Datos clave del cursado
 Modalidad: Bimodal
 Duración total: 50 horas
 Duración estimada: 10 semanas
-Fecha estimada de inicio: 8 de mayo de 2026
+Fecha estimada de inicio: 22 de mayo de 2026
 Día y horario de cursado: Clases presenciales, viernes de 17:30 a 19:30 hs
 Frecuencia: 1 encuentro semanal presencial.
 Modalidad: clases presenciales con apoyo del aula virtual.
@@ -1372,7 +1372,7 @@ Modalidad: Bimodal (encuentros virtuales sincrónicos y uno o dos encuentros pre
 según disponibilidad institucional)
 Carga horaria total: 30 horas reloj
 Duración: 2 meses
-Inicio de dictado: 6 mayo de 2026
+Inicio de dictado: 20 mayo de 2026
 Día y horario: Miércoles de 13:00 a 15:00 hs (encuentros quincenales)
 
 Metodología
