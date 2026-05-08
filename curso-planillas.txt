@@ -204,7 +204,7 @@ Datos clave del cursado
 Modalidad: Bimodal
 Carga horaria total: 48 horas
 Duración: 2 meses
-Inicio de dictado: 22 de mayo de 2026
+Inicio de dictado: 1 de agosto de 2026
 Día y horario: Viernes de 14:00 a 15:30 horas
 Frecuencia: Un encuentro semanal
 Entorno de cursado: Aula Virtual FCE – Zoom / Meet o simila
@@ -424,7 +424,7 @@ PREINSCRIPCIÓN: https://www.fce.unl.edu.ar/cursos_formacion/index.php?act=showL
 [/curso]
 
 [curso]
-CURSO:IA APLICADA DE 0 A 100: Formación laboral transversal
+CURSO:GESTIÓN DE PROYECTOS CON IA: PLANIFICACIÓN Y EJECUCIÓN PRÁCTICA
 LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=315
 INSCRIPCIONES ABIERTAS en este mismo momento, inscribite ya!
 
@@ -478,7 +478,7 @@ Datos clave del cursado
 Modalidad: Virtual
 Duración total: 40 horas
 Duración del cursado: 3 meses
-Fecha estimada de inicio: 21 de mayo de 2026
+Fecha estimada de inicio: 01 de agosto de 2026
 Día y horario de cursado: Viernes de 18 a 20 hs
 
 Perfil de egreso
@@ -838,7 +838,7 @@ Licenciado en Economía. Magíster en Dirección de Empresas.
 [/curso]
 
 [curso]
-CURSO:FORMACIÓN DE VENDEDORES DE PRODUCTOS PERECEDEROS EN SUPERMERCADOS
+CURSO:FORMACIÓN EN MANIPULACIÓN, CONSERVACIÓN Y VENTA DE MERCADERÍAS EN SUPERMERCADOS
 LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=307
 INSCRIPCIONES ABIERTAS en este mismo momento, inscribite ya!
 
@@ -938,7 +938,7 @@ Licenciado en Economía. Magíster en Dirección de Empresas.
 [/curso]
 
 [curso]
-CURSO:FORMACIÓN DE VENDEDORES PARA PRODUCTOS TEXTILES Y ELECTRODOMÉSTICOS
+CURSO:TÉCNICAS DE VENTA Y ATENCIÓN AL CLIENTE PARA EL SECTOR ELECTRO Y TEXTIL
 LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=305
 INSCRIPCIONES ABIERTAS en este mismo momento, inscribite ya!
 
@@ -1224,7 +1224,7 @@ Maestranda en Docencia Universitaria. Docente del área de Contabilidad de la FC
 [/curso]
 
 [curso]
-CURSO:CONVERTIR DATOS EN INTELIGENCIA DE NEGOCIO
+CURSO:CAPACITACIÓN EN POWER BI - GESTIÓN ESTRATÉGICA DE DATOS PARA LA TOMA DE DECISIONES
 LINK:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showSubcategoria&id=302
 INSCRIPCIONES ABIERTAS en este mismo momento, inscribite ya!
 CONSULTAS:https://www.fce.unl.edu.ar/cursos-de-formacion/index.php?act=showCategoria&id=221#showFormularioI&idCurso=1193
